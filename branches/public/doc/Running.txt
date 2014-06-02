@@ -1,0 +1,12 @@
+Running XNet 6.0_public
+------------------------------------------------------------------------------------------
+Once XNet has successfully compiled, the code can be run from any directory that contains 
+a control file.  This file specifies the locations of the REACLIB-formated nuclear 
+reaction data directory, the initial abundances and the thermodynamic trajectories, as 
+well as the values of the parameters which control XNet's evolution.
+
+As a first example, change directory to the public directory and execute the command 
+source/xnet.  This will read the control file in the public directory and evolve the 
+network at a constant 5 GK from an initial composition of helium.  The complete 
+set of abundances for each timestep is stored in a binary file (ts1 in this example).  
+A more limited set of nuclei is presented in an ASCIII file (ev1 in this example).

@@ -1,0 +1,107 @@
+File descriptions for XNet 6.0_public
+------------------------------------------------------------------------------------------
+
+Required Fortran files
+-------------
+net.f90                The outer wrapper for post-processing use.  
+                       Contains the main program, which handles I/O and loops 
+                       over zones, and 2 output routines, one called at the end 
+                       of the evolution, and one called by full_net at the end of 
+                       each timestep.  There is also an MPI variant of this file,
+                       net_mpi.f90
+
+common.f90             Contains modules and subroutines are common between the various 
+                       xnet targets, except for those associated with the nuclear data.
+
+conditions.f90         This file contains modules associated with the thermodynamic 
+                       conditions in the matter undergoing nucleosynthesis  
+
+control.f90            Contains modules and subroutines to manage the parameters that 
+                       control the execution of XNet.  
+
+data.f90               The primary network data structures, and the routines which load 
+                       the data from the Data directory.  Use of XNet with MPI 
+                       additionally requires communication of this data to all nodes, 
+                       via routines contained in data_distribute_mpi.f90
+
+full_net.f90           Contains the routines that manage the temporal evolution of the 
+                       network.
+
+jacobian_*.f90         Contains data structures and routines for building and solving 
+                       of the Jacobian matrix required by many implicit solution methods.
+                       Different versions exist to support different matrix solver 
+                       packages. Discussion of the best choice of matrix solver can be 
+                       found in Matrix_Solvers.txt. Use under MPI is supported by 
+                       additional routines contained in jacobian_bcast_*.f90
+                
+  jacobian_dense.f90   Contains the dense Jacobian build and solves with LAPACK 
+                       or other dense solver libraries.  
+
+  jacobian_PARDISO.f90 Contains the sparse Jacobian build and solves with PARDISO 
+                       libraries from Uni Basel.  This is the preferred sparse solver.
+                                            
+  jacobian_MA48.f90    Contains the sparse Jacobian build and solves with MA48 
+                       package from the Harwell Subroutine Library Archive.  
+
+net_preprocess.f90     Contains routines take the human readable, REACLIB formated 
+                       reaction rate libraries (sunet, netsu and netwinv) and prepares 
+                       binary versions for the reaction network. This involves 
+                       translating Characters to indicies and organizing the data for 
+                       more efficient computation.             
+
+solve_*.f90            Routines to solve the network system of equations for each 
+                       timestep.  Different versions exist for each solver method, 
+                       solve_be.f90 for Backward Euler and 
+                       solve_bd.f90 for Bader-Deufelhard.
+
+Optional Fortran files
+------------------------------------------------------------------------------------------
+
+eos_bahcall.f90       Contains routines which calculate Equation of State quantities 
+                      needed to calculate screening corrections for reaction rates,
+                      based on an approach used by Bahcall, 
+                     
+eos_helm.f90          Contains routines which calculate Equation of State quantities 
+                      needed to calculate screening corrections for reaction rates, 
+                      using the HELMHOLTZ Equation of State, which must be downloaded 
+                      separately from http://cococubed.asu.edu/code_pages/eos.shtml.
+
+flux.f90              Contains the data structures and routines for calculating 
+                      the net flux of each matched reaction pair.
+
+net_setup.f90         Standalone wrapper program for net_preprocess.f90, to allow this 
+                      operation to be performed offline from the network execution.
+
+match.f90             Contains the data structures and input routines for 
+                      matching forward and reverse reactions.
+
+nse.f90               Contains the routines necessary to solve for Nuclear Statistical 
+                      Equilibrium (NSE) for a given density, temperature and electron 
+                      fraction to compute initial abundances for the network.
+                      
+screening.f90         Contains the routines needed to calculate screening corrections for 
+                      reaction rates.  Relies on eos_*.f90 to calculated needed data 
+                      on the electron distribution.
+
+Input files
+-----------
+control               Sets the values of the various control flags as well as 
+                      the locations of input files
+
+th_const              An Example thermodynamic trajectory file.  This example 
+                      sets the conditions to be constant, but time variation 
+                      is expected.
+
+Data                  The REACLIB formated input data is expected to be in a 
+                      self-contained directory.  The choice of the network data can be 
+                      made at run time by changing the Data Directory identified in the 
+                      control file.  The Data directory begins with 3 files,
+
+  sunet               A list of nuclei in the network, one per line, in order of 
+                      increasing proton number and neutron number.
+                      
+  netwinv             A list of the nuclei in the network, their proton, neutron and 
+                      atomic numbers, masses and partition functions.
+                      
+  netsu               The REACLIB-formated reaction rate data.
+  

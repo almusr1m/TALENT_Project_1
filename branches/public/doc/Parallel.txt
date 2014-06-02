@@ -1,0 +1,27 @@
+XNet Parallelization NOTES 
+-------------------------------------------------------------------------------
+XNet can exploit parallelism via both the Message Passing Interface and OpenMP 
+threads.  
+
+Use of MPI requires a set of additional files, with names ending in _mpi.f90 to 
+distribute data to the multitude of MPI tasks.  An MPI version of the driver net_mpi.f 
+is included.  It exploits MPI to task a set of processors with a list of individual 
+post-processing calculations, taking another from the list as they complete the prior 
+task.
+
+In principle, OpenMP threading could be used either is fashion similar to that 
+described above for MPI, or multiple threads could be assigned to evolve a single zone.
+Experience tells us that the most efficient way to use OpenMP with XNet is to loop 
+over the zones, assigning each network call to successive threads.  In almost all cases 
+where parallel execution is needed to make the wall clock time managable, there are more 
+zones than threads.  Thus most of the OMP is in the standalone driver, net.f, or in the 
+interface between XNet and the hydrodynamic code to which it is coupled. 
+
+However, to work properly (ie be calculated by zone) in the threads, variable 
+which are a function of zone must be allocated or initialized in a parallel region 
+and scoped as OMP Threadprivate.  Thus there is thread scoping in many modules in 
+full_net.f, data.f, flux.f and esonom90.f common.f.  In addition, there are 2 variables 
+to thread variables, mythread is the thread ID determined by the number of the threads, 
+nthread is the number of threads.  These are distinct from the task identifiers 
+myid and nproc, which identify processors or MPI_tasks.
+-------------------------------------------------------------------------------

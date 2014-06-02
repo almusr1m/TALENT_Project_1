@@ -1,0 +1,1526 @@
+    n           -->     p                wc12 0.000E+00
+  be7           -->   li7                  ec 0.000E+00
+  c14           -->   n14                wc12 0.000E+00
+  n13           -->   c13                wc12 0.000E+00
+  o14           -->   n14                wc12 0.000E+00
+  o15           -->   n15                wc12 0.000E+00
+  f17           -->   o17                wc12 0.000E+00
+  f18           -->   o18                wc12 0.000E+00
+ ne18           -->   f18                wc12 0.000E+00
+ ne19           -->   f19                wc12 0.000E+00
+ na21           -->  ne21                wc12 0.000E+00
+ na22           -->  ne22                wc12 0.000E+00
+ mg23           -->  na23                wc12 0.000E+00
+ al24           -->  mg24                wc12 0.000E+00
+ al25           -->  mg25                wc12 0.000E+00
+ al26           -->  mg26                wc12 0.000E+00
+ al26           -->  mg26                wc12 0.000E+00
+ si31           -->   p31                wc12 0.000E+00
+ si32           -->   p32                wc12 0.000E+00
+  p29           -->  si29                wc12 0.000E+00
+  p30           -->  si30                wc12 0.000E+00
+  p32           -->   s32                wc12 0.000E+00
+  p33           -->   s33                wc12 0.000E+00
+  s35           -->  cl35                wc12 0.000E+00
+ cl33           -->   s33                wc12 0.000E+00
+ cl34           -->   s34                wc12 0.000E+00
+ cl36           -->  ar36                wc12 0.000E+00
+ cl36           -->   s36                wc12 0.000E+00
+ ar37           -->  cl37                wc12 0.000E+00
+ ar39           -->   k39                wc12 0.000E+00
+  k37           -->  ar37                wc12 0.000E+00
+  k38           -->  ar38                wc12 0.000E+00
+  k40           -->  ca40                wc12 0.000E+00
+  k40           -->  ar40                wc12 0.000E+00
+ ca41           -->   k41                wc12 0.000E+00
+ ca45           -->  sc45                wc12 0.000E+00
+ ca47           -->  sc47                wc12 0.000E+00
+ ca48           -->  sc48                wc07 0.000E+00
+ sc43           -->  ca43                wc12 0.000E+00
+ sc44           -->  ca44                wc12 0.000E+00
+ sc46           -->  ca46                bex+ 0.000E+00
+ sc46           -->  ti46                wc12 0.000E+00
+ sc47           -->  ti47                wc12 0.000E+00
+ sc48           -->  ti48                wc12 0.000E+00
+ sc49           -->  ti49                wc12 0.000E+00
+ ti44           -->  sc44                wc12 0.000E+00
+ ti45           -->  sc45                wc12 0.000E+00
+  v46           -->  ti46                wc12 0.000E+00
+  v47           -->  ti47                wc12 0.000E+00
+  v48           -->  ti48                wc12 0.000E+00
+  v49           -->  ti49                wc12 0.000E+00
+  v50           -->  ti50                wc12 0.000E+00
+  v50           -->  cr50                wc12 0.000E+00
+ cr48           -->   v48                wc12 0.000E+00
+ cr49           -->   v49                wc12 0.000E+00
+ cr51           -->   v51                wc12 0.000E+00
+ mn50           -->  cr50                wc12 0.000E+00
+ mn51           -->  cr51                wc12 0.000E+00
+ mn52           -->  cr52                wc12 0.000E+00
+ mn53           -->  cr53                wc12 0.000E+00
+ mn54           -->  cr54                wc12 0.000E+00
+ mn54           -->  fe54                wc12 0.000E+00
+ fe52           -->  mn52                wc12 0.000E+00
+ fe53           -->  mn53                wc12 0.000E+00
+ fe55           -->  mn55                wc12 0.000E+00
+ co53           -->  fe53                wc12 0.000E+00
+ co54           -->  fe54                wc12 0.000E+00
+ co55           -->  fe55                wc12 0.000E+00
+ co56           -->  fe56                wc12 0.000E+00
+ co57           -->  fe57                wc12 0.000E+00
+ co58           -->  fe58                wc12 0.000E+00
+ co58           -->  ni58                mo03 0.000E+00
+ ni56           -->  co56                wc12 0.000E+00
+ ni57           -->  co57                wc12 0.000E+00
+ ni59           -->  co59                wc12 0.000E+00
+ cu57           -->  ni57                wc12 0.000E+00
+ cu58           -->  ni58                wc12 0.000E+00
+ cu59           -->  ni59                wc12 0.000E+00
+ cu60           -->  ni60                wc12 0.000E+00
+ cu61           -->  ni61                wc12 0.000E+00
+ cu62           -->  ni62                wc12 0.000E+00
+ zn59           -->  cu59                wc12 0.000E+00
+ zn60           -->  cu60                wc12 0.000E+00
+ zn61           -->  cu61                wc12 0.000E+00
+ zn62           -->  cu62                wc12 0.000E+00
+ zn63           -->  cu63                wc12 0.000E+00
+    n    p      -->     d                an06 0.000E+00
+    p    d      -->   he3                de04 0.000E+00
+    n  he3      -->   he4                ka02 0.000E+00
+    d    d      -->   he4                nacr 0.000E+00
+  he4    d      -->   li6                mb11 0.000E+00
+    n  li6      -->   li7                jz10 0.000E+00
+    p  li6      -->   be7                nacr 0.000E+00
+  he4  he3      -->   be7                cd08 0.000E+00
+    p  be7      -->    b8                nacr 0.000E+00
+   b8           -->   he4  he4           wc12 0.000E+00
+    p  be9      -->   b10                nacr 0.000E+00
+  he4  li6      -->   b10                cf88 0.000E+00
+    n  b10      -->   b11                 wag 0.000E+00
+  he4  li7      -->   b11                nacr 0.000E+00
+    p  b11      -->   c12                nw00 0.000E+00
+    n  c12      -->   c13                ka02 0.000E+00
+    n  c13      -->   c14                ka02 0.000E+00
+    p  c12      -->   n13                ls09 0.000E+00
+    n  n13      -->   n14                wies 0.000E+00
+    p  c13      -->   n14                nacr 0.000E+00
+    n  n14      -->   n15                ka02 0.000E+00
+    p  c14      -->   n15                il10 0.000E+00
+    p  n13      -->   o14                lg06 0.000E+00
+    n  o14      -->   o15                rpsm 0.000E+00
+    p  n14      -->   o15                im05 0.000E+00
+    n  o15      -->   o16                rpsm 0.000E+00
+    p  n15      -->   o16                li10 0.000E+00
+  he4  c12      -->   o16                chw0 0.000E+00
+    n  o16      -->   o17                ka02 0.000E+00
+    n  o17      -->   o18                bb92 0.000E+00
+  he4  c14      -->   o18                il10 0.000E+00
+    p  o16      -->   f17                ia08 0.000E+00
+    n  f17      -->   f18                rpsm 0.000E+00
+    p  o17      -->   f18                il10 0.000E+00
+  he4  n14      -->   f18                il10 0.000E+00
+    n  f18      -->   f19                rpsm 0.000E+00
+    p  o18      -->   f19                il10 0.000E+00
+  he4  n15      -->   f19                il10 0.000E+00
+    p  f17      -->  ne18                cb09 0.000E+00
+  he4  o14      -->  ne18                wh87 0.000E+00
+    n ne18      -->  ne19                ths8 0.000E+00
+    p  f18      -->  ne19                il10 0.000E+00
+  he4  o15      -->  ne19                dc11 0.000E+00
+    n ne19      -->  ne20                ths8 0.000E+00
+    p  f19      -->  ne20                nacr 0.000E+00
+  he4  o16      -->  ne20                co10 0.000E+00
+    n ne20      -->  ne21                kd02 0.000E+00
+  he4  o17      -->  ne21                cf88 0.000E+00
+    n ne21      -->  ne22                kd02 0.000E+00
+  he4  o18      -->  ne22                il10 0.000E+00
+    p ne20      -->  na21                il10 0.000E+00
+  he4  f17      -->  na21                rpsm 0.000E+00
+    n na21      -->  na22                ths8 0.000E+00
+    p ne21      -->  na22                il10 0.000E+00
+  he4  f18      -->  na22                rpsm 0.000E+00
+    n na22      -->  na23                ths8 0.000E+00
+    p ne22      -->  na23                il10 0.000E+00
+  he4  f19      -->  na23                rpsm 0.000E+00
+    p na22      -->  mg23                il10 0.000E+00
+  he4 ne19      -->  mg23                ths8 0.000E+00
+    n mg23      -->  mg24                ths8 0.000E+00
+    p na23      -->  mg24                il10 0.000E+00
+  he4 ne20      -->  mg24                il10 0.000E+00
+    n mg24      -->  mg25                kd02 0.000E+00
+  he4 ne21      -->  mg25                cf88 0.000E+00
+    n mg25      -->  mg26                kd02 0.000E+00
+  he4 ne22      -->  mg26                il10 0.000E+00
+    p mg23      -->  al24                il10 0.000E+00
+ al24           -->     p na23           wc12 0.000E+00
+ al24           -->   he4 ne20           wc12 0.000E+00
+    n al24      -->  al25                ths8 0.000E+00
+    p mg24      -->  al25                il10 0.000E+00
+  he4 na21      -->  al25                ths8 0.000E+00
+    n al25      -->  al26                ths8 0.000E+00
+    p mg25      -->  al26                il10 0.000E+00
+  he4 na22      -->  al26                ths8 0.000E+00
+    n al26      -->  al27                kd02 0.000E+00
+    p mg26      -->  al27                il10 0.000E+00
+  he4 na23      -->  al27                ths8 0.000E+00
+    p al27      -->  si28                il10 0.000E+00
+  he4 mg24      -->  si28                st08 0.000E+00
+    n si28      -->  si29                kd02 0.000E+00
+  he4 mg25      -->  si29                cf88 0.000E+00
+    n si29      -->  si30                kd02 0.000E+00
+  he4 mg26      -->  si30                cf88 0.000E+00
+    n si30      -->  si31                kd02 0.000E+00
+    n si31      -->  si32                rath 0.000E+00
+    p si28      -->   p29                il10 0.000E+00
+  he4 al25      -->   p29                ths8 0.000E+00
+    n  p29      -->   p30                ths8 0.000E+00
+    p si29      -->   p30                il10 0.000E+00
+  he4 al26      -->   p30                ths8 0.000E+00
+    n  p30      -->   p31                ths8 0.000E+00
+    p si30      -->   p31                il10 0.000E+00
+  he4 al27      -->   p31                ths8 0.000E+00
+    n  p31      -->   p32                kd02 0.000E+00
+    p si31      -->   p32                rath 0.000E+00
+    n  p32      -->   p33                rath 0.000E+00
+    p si32      -->   p33                rath 0.000E+00
+    p  p31      -->   s32                il10 0.000E+00
+  he4 si28      -->   s32                ths8 0.000E+00
+    n  s32      -->   s33                kd02 0.000E+00
+    p  p32      -->   s33                rath 0.000E+00
+  he4 si29      -->   s33                ths8 0.000E+00
+    n  s33      -->   s34                kd02 0.000E+00
+    p  p33      -->   s34                rath 0.000E+00
+  he4 si30      -->   s34                ths8 0.000E+00
+    n  s34      -->   s35                kd02 0.000E+00
+  he4 si31      -->   s35                rath 0.000E+00
+    n  s35      -->   s36                ths8 0.000E+00
+  he4 si32      -->   s36                rath 0.000E+00
+    p  s32      -->  cl33                il10 0.000E+00
+  he4  p29      -->  cl33                ths8 0.000E+00
+    n cl33      -->  cl34                ths8 0.000E+00
+    p  s33      -->  cl34                ths8 0.000E+00
+  he4  p30      -->  cl34                ths8 0.000E+00
+    n cl34      -->  cl35                ths8 0.000E+00
+    p  s34      -->  cl35                ths8 0.000E+00
+  he4  p31      -->  cl35                ths8 0.000E+00
+    n cl35      -->  cl36                kd02 0.000E+00
+    p  s35      -->  cl36                ths8 0.000E+00
+  he4  p32      -->  cl36                rath 0.000E+00
+    n cl36      -->  cl37                kd02 0.000E+00
+    p  s36      -->  cl37                ths8 0.000E+00
+  he4  p33      -->  cl37                rath 0.000E+00
+    p cl35      -->  ar36                il10 0.000E+00
+  he4  s32      -->  ar36                ths8 0.000E+00
+    n ar36      -->  ar37                kd02 0.000E+00
+    p cl36      -->  ar37                ths8 0.000E+00
+  he4  s33      -->  ar37                ths8 0.000E+00
+    n ar37      -->  ar38                ths8 0.000E+00
+    p cl37      -->  ar38                ths8 0.000E+00
+  he4  s34      -->  ar38                SM93 0.000E+00
+    n ar38      -->  ar39                kd02 0.000E+00
+  he4  s35      -->  ar39                ths8 0.000E+00
+    n ar39      -->  ar40                kd02 0.000E+00
+  he4  s36      -->  ar40                ths8 0.000E+00
+    p ar36      -->   k37                il10 0.000E+00
+  he4 cl33      -->   k37                ths8 0.000E+00
+    n  k37      -->   k38                ths8 0.000E+00
+    p ar37      -->   k38                ths8 0.000E+00
+  he4 cl34      -->   k38                ths8 0.000E+00
+    n  k38      -->   k39                ths8 0.000E+00
+    p ar38      -->   k39                ths8 0.000E+00
+  he4 cl35      -->   k39                ths8 0.000E+00
+    n  k39      -->   k40                kd02 0.000E+00
+    p ar39      -->   k40                ths8 0.000E+00
+  he4 cl36      -->   k40                ths8 0.000E+00
+    n  k40      -->   k41                kd02 0.000E+00
+    p ar40      -->   k41                ths8 0.000E+00
+  he4 cl37      -->   k41                ths8 0.000E+00
+    p  k39      -->  ca40                ths8 0.000E+00
+  he4 ar36      -->  ca40                ths8 0.000E+00
+    n ca40      -->  ca41                kd02 0.000E+00
+    p  k40      -->  ca41                ths8 0.000E+00
+  he4 ar37      -->  ca41                ths8 0.000E+00
+    n ca41      -->  ca42                kd02 0.000E+00
+    p  k41      -->  ca42                SM86 0.000E+00
+  he4 ar38      -->  ca42                ths8 0.000E+00
+    n ca42      -->  ca43                kd02 0.000E+00
+  he4 ar39      -->  ca43                ths8 0.000E+00
+    n ca43      -->  ca44                kd02 0.000E+00
+  he4 ar40      -->  ca44                ths8 0.000E+00
+    n ca44      -->  ca45                kd02 0.000E+00
+    n ca45      -->  ca46                kd02 0.000E+00
+    n ca46      -->  ca47                kd02 0.000E+00
+    n ca47      -->  ca48                ths8 0.000E+00
+    p ca42      -->  sc43                ths8 0.000E+00
+  he4  k39      -->  sc43                ths8 0.000E+00
+    n sc43      -->  sc44                ths8 0.000E+00
+    p ca43      -->  sc44                ths8 0.000E+00
+  he4  k40      -->  sc44                ths8 0.000E+00
+    n sc44      -->  sc45                ths8 0.000E+00
+    p ca44      -->  sc45                ths8 0.000E+00
+  he4  k41      -->  sc45                ths8 0.000E+00
+    n sc45      -->  sc46                kd02 0.000E+00
+    p ca45      -->  sc46                ths8 0.000E+00
+    n sc46      -->  sc47                rath 0.000E+00
+    p ca46      -->  sc47                ths8 0.000E+00
+    n sc47      -->  sc48                rath 0.000E+00
+    p ca47      -->  sc48                ths8 0.000E+00
+    n sc48      -->  sc49                rath 0.000E+00
+    p ca48      -->  sc49                ths8 0.000E+00
+    p sc43      -->  ti44                ths8 0.000E+00
+  he4 ca40      -->  ti44                chw0 0.000E+00
+    n ti44      -->  ti45                ths8 0.000E+00
+    p sc44      -->  ti45                ths8 0.000E+00
+  he4 ca41      -->  ti45                ths8 0.000E+00
+    n ti45      -->  ti46                ths8 0.000E+00
+    p sc45      -->  ti46                ths8 0.000E+00
+  he4 ca42      -->  ti46                ths8 0.000E+00
+    n ti46      -->  ti47                kd02 0.000E+00
+    p sc46      -->  ti47                rath 0.000E+00
+  he4 ca43      -->  ti47                ths8 0.000E+00
+    n ti47      -->  ti48                kd02 0.000E+00
+    p sc47      -->  ti48                rath 0.000E+00
+  he4 ca44      -->  ti48                ths8 0.000E+00
+    n ti48      -->  ti49                kd02 0.000E+00
+    p sc48      -->  ti49                rath 0.000E+00
+  he4 ca45      -->  ti49                ths8 0.000E+00
+    n ti49      -->  ti50                kd02 0.000E+00
+    p sc49      -->  ti50                rath 0.000E+00
+  he4 ca46      -->  ti50                ths8 0.000E+00
+    p ti45      -->   v46                ths8 0.000E+00
+    n  v46      -->   v47                ths8 0.000E+00
+    p ti46      -->   v47                ths8 0.000E+00
+  he4 sc43      -->   v47                ths8 0.000E+00
+    n  v47      -->   v48                ths8 0.000E+00
+    p ti47      -->   v48                ths8 0.000E+00
+  he4 sc44      -->   v48                ths8 0.000E+00
+    n  v48      -->   v49                ths8 0.000E+00
+    p ti48      -->   v49                ths8 0.000E+00
+  he4 sc45      -->   v49                ths8 0.000E+00
+    n  v49      -->   v50                ths8 0.000E+00
+    p ti49      -->   v50                ths8 0.000E+00
+  he4 sc46      -->   v50                rath 0.000E+00
+    n  v50      -->   v51                kd02 0.000E+00
+    p ti50      -->   v51                ths8 0.000E+00
+  he4 sc47      -->   v51                rath 0.000E+00
+    p  v47      -->  cr48                nfis 0.000E+00
+  he4 ti44      -->  cr48                ths8 0.000E+00
+    n cr48      -->  cr49                ths8 0.000E+00
+    p  v48      -->  cr49                ths8 0.000E+00
+  he4 ti45      -->  cr49                ths8 0.000E+00
+    n cr49      -->  cr50                ths8 0.000E+00
+    p  v49      -->  cr50                ths8 0.000E+00
+  he4 ti46      -->  cr50                ths8 0.000E+00
+    n cr50      -->  cr51                kd02 0.000E+00
+    p  v50      -->  cr51                ths8 0.000E+00
+  he4 ti47      -->  cr51                ths8 0.000E+00
+    n cr51      -->  cr52                kd02 0.000E+00
+    p  v51      -->  cr52                ths8 0.000E+00
+  he4 ti48      -->  cr52                ths8 0.000E+00
+    n cr52      -->  cr53                kd02 0.000E+00
+  he4 ti49      -->  cr53                ths8 0.000E+00
+    n cr53      -->  cr54                kd02 0.000E+00
+  he4 ti50      -->  cr54                ths8 0.000E+00
+    p cr49      -->  mn50                ths8 0.000E+00
+  he4  v46      -->  mn50                ths8 0.000E+00
+    n mn50      -->  mn51                ths8 0.000E+00
+    p cr50      -->  mn51                ths8 0.000E+00
+  he4  v47      -->  mn51                ths8 0.000E+00
+    n mn51      -->  mn52                ths8 0.000E+00
+    p cr51      -->  mn52                ths8 0.000E+00
+  he4  v48      -->  mn52                ths8 0.000E+00
+    n mn52      -->  mn53                ths8 0.000E+00
+    p cr52      -->  mn53                ths8 0.000E+00
+  he4  v49      -->  mn53                ths8 0.000E+00
+    n mn53      -->  mn54                ths8 0.000E+00
+    p cr53      -->  mn54                ths8 0.000E+00
+  he4  v50      -->  mn54                ths8 0.000E+00
+    n mn54      -->  mn55                ths8 0.000E+00
+    p cr54      -->  mn55                ths8 0.000E+00
+  he4  v51      -->  mn55                ths8 0.000E+00
+    p mn51      -->  fe52                ths8 0.000E+00
+  he4 cr48      -->  fe52                ths8 0.000E+00
+    n fe52      -->  fe53                ths8 0.000E+00
+    p mn52      -->  fe53                ths8 0.000E+00
+  he4 cr49      -->  fe53                ths8 0.000E+00
+    n fe53      -->  fe54                ths8 0.000E+00
+    p mn53      -->  fe54                ths8 0.000E+00
+  he4 cr50      -->  fe54                ths8 0.000E+00
+    n fe54      -->  fe55                kd02 0.000E+00
+    p mn54      -->  fe55                ths8 0.000E+00
+  he4 cr51      -->  fe55                ths8 0.000E+00
+    n fe55      -->  fe56                kd02 0.000E+00
+    p mn55      -->  fe56                ths8 0.000E+00
+  he4 cr52      -->  fe56                ths8 0.000E+00
+    n fe56      -->  fe57                kd02 0.000E+00
+  he4 cr53      -->  fe57                ths8 0.000E+00
+    n fe57      -->  fe58                kd02 0.000E+00
+  he4 cr54      -->  fe58                ths8 0.000E+00
+    p fe52      -->  co53                ths8 0.000E+00
+    n co53      -->  co54                ths8 0.000E+00
+    p fe53      -->  co54                ths8 0.000E+00
+  he4 mn50      -->  co54                ths8 0.000E+00
+    n co54      -->  co55                ths8 0.000E+00
+    p fe54      -->  co55                ths8 0.000E+00
+  he4 mn51      -->  co55                ths8 0.000E+00
+    n co55      -->  co56                ths8 0.000E+00
+    p fe55      -->  co56                ths8 0.000E+00
+  he4 mn52      -->  co56                ths8 0.000E+00
+    n co56      -->  co57                ths8 0.000E+00
+    p fe56      -->  co57                ths8 0.000E+00
+  he4 mn53      -->  co57                ths8 0.000E+00
+    n co57      -->  co58                ths8 0.000E+00
+    p fe57      -->  co58                ths8 0.000E+00
+  he4 mn54      -->  co58                ths8 0.000E+00
+    n co58      -->  co59                ths8 0.000E+00
+    p fe58      -->  co59                ths8 0.000E+00
+  he4 mn55      -->  co59                ths8 0.000E+00
+    p co55      -->  ni56                ths8 0.000E+00
+  he4 fe52      -->  ni56                ths8 0.000E+00
+    n ni56      -->  ni57                ths8 0.000E+00
+    p co56      -->  ni57                ths8 0.000E+00
+  he4 fe53      -->  ni57                ths8 0.000E+00
+    n ni57      -->  ni58                ths8 0.000E+00
+    p co57      -->  ni58                ths8 0.000E+00
+  he4 fe54      -->  ni58                ths8 0.000E+00
+    n ni58      -->  ni59                kd02 0.000E+00
+    p co58      -->  ni59                ths8 0.000E+00
+  he4 fe55      -->  ni59                ths8 0.000E+00
+    n ni59      -->  ni60                kd02 0.000E+00
+    p co59      -->  ni60                ths8 0.000E+00
+  he4 fe56      -->  ni60                ths8 0.000E+00
+    n ni60      -->  ni61                kd02 0.000E+00
+  he4 fe57      -->  ni61                ths8 0.000E+00
+    n ni61      -->  ni62                kd02 0.000E+00
+  he4 fe58      -->  ni62                ths8 0.000E+00
+    p ni56      -->  cu57                wien 0.000E+00
+  he4 co53      -->  cu57                ths8 0.000E+00
+    n cu57      -->  cu58                ths8 0.000E+00
+    p ni57      -->  cu58                ths8 0.000E+00
+  he4 co54      -->  cu58                ths8 0.000E+00
+    n cu58      -->  cu59                ths8 0.000E+00
+    p ni58      -->  cu59                ths8 0.000E+00
+  he4 co55      -->  cu59                ths8 0.000E+00
+    n cu59      -->  cu60                ths8 0.000E+00
+    p ni59      -->  cu60                ths8 0.000E+00
+  he4 co56      -->  cu60                ths8 0.000E+00
+    n cu60      -->  cu61                ths8 0.000E+00
+    p ni60      -->  cu61                ths8 0.000E+00
+  he4 co57      -->  cu61                ths8 0.000E+00
+    n cu61      -->  cu62                ths8 0.000E+00
+    p ni61      -->  cu62                ths8 0.000E+00
+  he4 co58      -->  cu62                ths8 0.000E+00
+    n cu62      -->  cu63                ths8 0.000E+00
+    p ni62      -->  cu63                ths8 0.000E+00
+  he4 co59      -->  cu63                ths8 0.000E+00
+    p cu58      -->  zn59                nfis 0.000E+00
+ zn59           -->     p ni58           wc12 0.000E+00
+    n zn59      -->  zn60                ths8 0.000E+00
+    p cu59      -->  zn60                ths8 0.000E+00
+  he4 ni56      -->  zn60                ths8 0.000E+00
+    n zn60      -->  zn61                ths8 0.000E+00
+    p cu60      -->  zn61                ths8 0.000E+00
+  he4 ni57      -->  zn61                ths8 0.000E+00
+    n zn61      -->  zn62                ths8 0.000E+00
+    p cu61      -->  zn62                ths8 0.000E+00
+  he4 ni58      -->  zn62                ths8 0.000E+00
+    n zn62      -->  zn63                ths8 0.000E+00
+    p cu62      -->  zn63                ths8 0.000E+00
+  he4 ni59      -->  zn63                ths8 0.000E+00
+    n zn63      -->  zn64                ths8 0.000E+00
+    p cu63      -->  zn64                ths8 0.000E+00
+  he4 ni60      -->  zn64                ths8 0.000E+00
+    n zn64      -->  zn65                kd02 0.000E+00
+  he4 ni61      -->  zn65                ths8 0.000E+00
+    n zn65      -->  zn66                kd02 0.000E+00
+  he4 ni62      -->  zn66                ths8 0.000E+00
+    n    p  he4 -->   li6                cf88 0.000E+00
+    n  he4  he4 -->   be9                br10 0.000E+00
+  he4  he4  he4 -->   c12                fy05 0.000E+00
+    p    p      -->     d                bet+ 0.000E+00
+    p    p      -->     d                  ec 0.000E+00
+    p  he3      -->   he4                bet+ 0.000E+00
+    d    d      -->     n  he3           de04 0.000E+00
+    d  he3      -->     p  he4           de04 0.000E+00
+    p  li6      -->   he4  he3           pt05 0.000E+00
+    n  be7      -->   he4  he4            wag 0.000E+00
+    p  li7      -->   he4  he4           de04 0.000E+00
+    d  li6      -->     n  be7           mafo 0.000E+00
+    d  li6      -->     p  li7           mafo 0.000E+00
+    p  be9      -->   he4  li6           cf88 0.000E+00
+    n  be7      -->     p  li7           de04 0.000E+00
+    n  b10      -->   he4  li7           cf88 0.000E+00
+    p  b10      -->   he4  be7           nacr 0.000E+00
+  he4  be9      -->     n  c12           cf88 0.000E+00
+  he4  b10      -->     n  n13           cf88 0.000E+00
+  he4  b10      -->     p  c13            wag 0.000E+00
+  he4  b11      -->     n  n14           cf88 0.000E+00
+  he4  b11      -->     p  c14           bb92 0.000E+00
+    n  o15      -->   he4  c12           cf88 0.000E+00
+    p  n15      -->   he4  c12           nacr 0.000E+00
+    n mg23      -->   c12  c12           cf88 0.000E+00
+  c12  c12      -->     p na23           cf88 0.000E+00
+  c12  c12      -->   he4 ne20           cf88 0.000E+00
+    n  n13      -->     p  c13           nacr 0.000E+00
+    d  c13      -->     n  n14           bb92 0.000E+00
+  he4  c13      -->     n  o16           hd08 0.000E+00
+    n  n14      -->     p  c14           cf88 0.000E+00
+    d  c14      -->     n  n15           bk92 0.000E+00
+    n  o17      -->   he4  c14           kg91 0.000E+00
+  he4  n13      -->     p  o16           cf88 0.000E+00
+    n  o14      -->     p  n14           nacr 0.000E+00
+    n  f17      -->   he4  n14           nacr 0.000E+00
+    p  o17      -->   he4  n14           il10 0.000E+00
+    n  o15      -->     p  n15           nacr 0.000E+00
+    n  f18      -->   he4  n15           cf88 0.000E+00
+    p  o18      -->   he4  n15           il10 0.000E+00
+  he4  o14      -->     p  f17           Ha96 0.000E+00
+    n ne18      -->   he4  o15           ths8 0.000E+00
+    p  f18      -->   he4  o15           il10 0.000E+00
+    n ne19      -->   he4  o16           ths8 0.000E+00
+    p  f19      -->   he4  o16           nacr 0.000E+00
+  c12  o16      -->     p al27           cf88 0.000E+00
+  c12  o16      -->   he4 mg24           cf88 0.000E+00
+  o16  o16      -->     p  p31           cf88 0.000E+00
+  o16  o16      -->   he4 si28           cf88 0.000E+00
+    n  f17      -->     p  o17            wag 0.000E+00
+  he4  o17      -->     n ne20           nacr 0.000E+00
+    n  f18      -->     p  o18            wag 0.000E+00
+    n ne21      -->   he4  o18           nacr 0.000E+00
+  he4  f17      -->     p ne20           nacr 0.000E+00
+    n ne18      -->     p  f18           ths8 0.000E+00
+    n na21      -->   he4  f18           ths8 0.000E+00
+  he4  f18      -->     p ne21           rpsm 0.000E+00
+    n ne19      -->     p  f19           nacr 0.000E+00
+    n na22      -->   he4  f19           cf88 0.000E+00
+  he4  f19      -->     p ne22           ua08 0.000E+00
+  he4 ne18      -->     p na21           mv09 0.000E+00
+  he4 ne19      -->     p na22           ths8 0.000E+00
+    n mg23      -->   he4 ne20           ths8 0.000E+00
+    p na23      -->   he4 ne20           il10 0.000E+00
+  c12 ne20      -->     p  p31           rolf 0.000E+00
+  c12 ne20      -->   he4 si28           rolf 0.000E+00
+    n na21      -->     p ne21           ths8 0.000E+00
+  he4 ne21      -->     n mg24           nacr 0.000E+00
+    n na22      -->     p ne22           cf88 0.000E+00
+    n mg25      -->   he4 ne22           il10 0.000E+00
+    n al24      -->   he4 na21           ths8 0.000E+00
+  he4 na21      -->     p mg24           nacr 0.000E+00
+    n al25      -->   he4 na22           ths8 0.000E+00
+  he4 na22      -->     p mg25           ths8 0.000E+00
+    n mg23      -->     p na23           nacr 0.000E+00
+    n al26      -->   he4 na23           ol11 0.000E+00
+  he4 na23      -->     p mg26           ths8 0.000E+00
+  he4 mg23      -->     p al26           ths8 0.000E+00
+    n al24      -->     p mg24           ths8 0.000E+00
+    p al27      -->   he4 mg24           il10 0.000E+00
+    n al25      -->     p mg25           ths8 0.000E+00
+  he4 mg25      -->     n si28           nacr 0.000E+00
+    n al26      -->     p mg26           ol11 0.000E+00
+  he4 mg26      -->     n si29           nacr 0.000E+00
+  he4 al25      -->     p si28           ths8 0.000E+00
+    n  p29      -->   he4 al26           ths8 0.000E+00
+  he4 al26      -->     p si29           ths8 0.000E+00
+    n  p30      -->   he4 al27           nacr 0.000E+00
+  he4 al27      -->     p si30           ths8 0.000E+00
+    p  p31      -->   he4 si28           il10 0.000E+00
+    n  p29      -->     p si29           ths8 0.000E+00
+    n  s32      -->   he4 si29           ths8 0.000E+00
+    p  p32      -->   he4 si29           rath 0.000E+00
+    n  p30      -->     p si30           ths8 0.000E+00
+    n  s33      -->   he4 si30           ths8 0.000E+00
+    p  p33      -->   he4 si30           rath 0.000E+00
+    p si31      -->     n  p31           rath 0.000E+00
+  he4 si31      -->     n  s34           rath 0.000E+00
+    n  p32      -->     p si32           rath 0.000E+00
+    n  s35      -->   he4 si32           ths8 0.000E+00
+  he4  p29      -->     p  s32           ths8 0.000E+00
+    n cl33      -->   he4  p30           ths8 0.000E+00
+  he4  p30      -->     p  s33           ths8 0.000E+00
+    n cl34      -->   he4  p31           ths8 0.000E+00
+  he4  p31      -->     p  s34           ths8 0.000E+00
+    p  p32      -->     n  s32           rath 0.000E+00
+    n cl35      -->   he4  p32           ths8 0.000E+00
+    p  s35      -->   he4  p32           ths8 0.000E+00
+    n  s33      -->     p  p33           ths8 0.000E+00
+    n cl36      -->   he4  p33           ths8 0.000E+00
+    p  s36      -->   he4  p33           ths8 0.000E+00
+    p cl35      -->   he4  s32           il10 0.000E+00
+    n cl33      -->     p  s33           ths8 0.000E+00
+    n ar36      -->   he4  s33           ths8 0.000E+00
+    p cl36      -->   he4  s33           ths8 0.000E+00
+    n cl34      -->     p  s34           ths8 0.000E+00
+    n ar37      -->   he4  s34           SM93 0.000E+00
+    p cl37      -->   he4  s34           SM93 0.000E+00
+    n cl35      -->     p  s35           ths8 0.000E+00
+  he4  s35      -->     n ar38           ths8 0.000E+00
+    n cl36      -->     p  s36           ths8 0.000E+00
+    n ar39      -->   he4  s36           ths8 0.000E+00
+  he4 cl33      -->     p ar36           ths8 0.000E+00
+    n  k37      -->   he4 cl34           ths8 0.000E+00
+  he4 cl34      -->     p ar37           ths8 0.000E+00
+    n  k38      -->   he4 cl35           ths8 0.000E+00
+  he4 cl35      -->     p ar38           ths8 0.000E+00
+    n ar36      -->     p cl36           ths8 0.000E+00
+    n  k39      -->   he4 cl36           ths8 0.000E+00
+    p ar39      -->   he4 cl36           ths8 0.000E+00
+    n ar37      -->     p cl37           ths8 0.000E+00
+    n  k40      -->   he4 cl37           ths8 0.000E+00
+    p ar40      -->   he4 cl37           ths8 0.000E+00
+    p  k39      -->   he4 ar36           ths8 0.000E+00
+    n  k37      -->     p ar37           ths8 0.000E+00
+    n ca40      -->   he4 ar37           ths8 0.000E+00
+    p  k40      -->   he4 ar37           ths8 0.000E+00
+    n  k38      -->     p ar38           ths8 0.000E+00
+    n ca41      -->   he4 ar38           SM86 0.000E+00
+    p  k41      -->   he4 ar38           SM86 0.000E+00
+    n  k39      -->     p ar39           ths8 0.000E+00
+    n ca42      -->   he4 ar39           ths8 0.000E+00
+    n  k40      -->     p ar40           ths8 0.000E+00
+    n ca43      -->   he4 ar40           ths8 0.000E+00
+  he4  k37      -->     p ca40           ths8 0.000E+00
+  he4  k38      -->     p ca41           ths8 0.000E+00
+    p ca42      -->   he4  k39           ths8 0.000E+00
+    p  k40      -->     n ca40           ths8 0.000E+00
+    n sc43      -->   he4  k40           ths8 0.000E+00
+  he4  k40      -->     p ca43           ths8 0.000E+00
+    n ca41      -->     p  k41           SM86 0.000E+00
+    n sc44      -->   he4  k41           SM91 0.000E+00
+  he4  k41      -->     p ca44           SM91 0.000E+00
+    p sc43      -->   he4 ca40           ths8 0.000E+00
+    n ti44      -->   he4 ca41           ths8 0.000E+00
+    p sc44      -->   he4 ca41           ths8 0.000E+00
+    n ti45      -->   he4 ca42           ths8 0.000E+00
+    p sc45      -->   he4 ca42           ths8 0.000E+00
+    n sc43      -->     p ca43           ths8 0.000E+00
+  he4 ca43      -->     n ti46           ths8 0.000E+00
+    p sc46      -->   he4 ca43           rath 0.000E+00
+    n sc44      -->     p ca44           ths8 0.000E+00
+    n ti47      -->   he4 ca44           ths8 0.000E+00
+    p sc47      -->   he4 ca44           rath 0.000E+00
+    n sc45      -->     p ca45           ths8 0.000E+00
+  he4 ca45      -->     n ti48           ths8 0.000E+00
+    p sc48      -->   he4 ca45           rath 0.000E+00
+    n sc46      -->     p ca46           rath 0.000E+00
+    n ti49      -->   he4 ca46           ths8 0.000E+00
+    p sc49      -->   he4 ca46           rath 0.000E+00
+    p ca47      -->     n sc47           ths8 0.000E+00
+  he4 ca47      -->     n ti50           ths8 0.000E+00
+    n sc48      -->     p ca48           rath 0.000E+00
+    n  v46      -->   he4 sc43           ths8 0.000E+00
+  he4 sc43      -->     p ti46           ths8 0.000E+00
+    n ti44      -->     p sc44           ths8 0.000E+00
+    n  v47      -->   he4 sc44           ths8 0.000E+00
+  he4 sc44      -->     p ti47           ths8 0.000E+00
+    n ti45      -->     p sc45           ths8 0.000E+00
+    n  v48      -->   he4 sc45           ths8 0.000E+00
+  he4 sc45      -->     p ti48           ths8 0.000E+00
+    p sc46      -->     n ti46           rath 0.000E+00
+  he4 sc46      -->     n  v49           rath 0.000E+00
+  he4 sc46      -->     p ti49           rath 0.000E+00
+    n ti47      -->     p sc47           ths8 0.000E+00
+    n  v50      -->   he4 sc47           ths8 0.000E+00
+  he4 sc47      -->     p ti50           rath 0.000E+00
+    p sc48      -->     n ti48           rath 0.000E+00
+  he4 sc48      -->     n  v51           rath 0.000E+00
+    p sc49      -->     n ti49           rath 0.000E+00
+    p  v47      -->   he4 ti44           chw0 0.000E+00
+    n cr48      -->   he4 ti45           ths8 0.000E+00
+  he4 ti45      -->     p  v48           ths8 0.000E+00
+    n  v46      -->     p ti46           ths8 0.000E+00
+    n cr49      -->   he4 ti46           ths8 0.000E+00
+    p  v49      -->   he4 ti46           ths8 0.000E+00
+    n  v47      -->     p ti47           ths8 0.000E+00
+    n cr50      -->   he4 ti47           ths8 0.000E+00
+    p  v50      -->   he4 ti47           ths8 0.000E+00
+    n  v48      -->     p ti48           ths8 0.000E+00
+    n cr51      -->   he4 ti48           ths8 0.000E+00
+    p  v51      -->   he4 ti48           ths8 0.000E+00
+    n  v49      -->     p ti49           ths8 0.000E+00
+  he4 ti49      -->     n cr52           ths8 0.000E+00
+    n  v50      -->     p ti50           ths8 0.000E+00
+    n cr53      -->   he4 ti50           ths8 0.000E+00
+  he4  v46      -->     p cr49           ths8 0.000E+00
+    n mn50      -->   he4  v47           ths8 0.000E+00
+  he4  v47      -->     p cr50           ths8 0.000E+00
+    n cr48      -->     p  v48           ths8 0.000E+00
+    n mn51      -->   he4  v48           ths8 0.000E+00
+  he4  v48      -->     p cr51           ths8 0.000E+00
+    n cr49      -->     p  v49           ths8 0.000E+00
+    n mn52      -->   he4  v49           ths8 0.000E+00
+  he4  v49      -->     p cr52           ths8 0.000E+00
+    p  v50      -->     n cr50           ths8 0.000E+00
+    n mn53      -->   he4  v50           ths8 0.000E+00
+  he4  v50      -->     p cr53           ths8 0.000E+00
+    n cr51      -->     p  v51           ths8 0.000E+00
+    n mn54      -->   he4  v51           ths8 0.000E+00
+    p cr54      -->   he4  v51           ths8 0.000E+00
+  he4 cr48      -->     p mn51           ths8 0.000E+00
+    n fe52      -->   he4 cr49           ths8 0.000E+00
+  he4 cr49      -->     p mn52           ths8 0.000E+00
+    n mn50      -->     p cr50           ths8 0.000E+00
+    n fe53      -->   he4 cr50           ths8 0.000E+00
+    p mn53      -->   he4 cr50           ths8 0.000E+00
+    n mn51      -->     p cr51           ths8 0.000E+00
+    n fe54      -->   he4 cr51           ths8 0.000E+00
+    p mn54      -->   he4 cr51           ths8 0.000E+00
+    n mn52      -->     p cr52           ths8 0.000E+00
+    n fe55      -->   he4 cr52           ths8 0.000E+00
+    p mn55      -->   he4 cr52           ths8 0.000E+00
+    n mn53      -->     p cr53           ths8 0.000E+00
+    n fe56      -->   he4 cr53           ths8 0.000E+00
+    n mn54      -->     p cr54           ths8 0.000E+00
+    n fe57      -->   he4 cr54           ths8 0.000E+00
+    n co53      -->   he4 mn50           ths8 0.000E+00
+  he4 mn50      -->     p fe53           ths8 0.000E+00
+    n co54      -->   he4 mn51           ths8 0.000E+00
+  he4 mn51      -->     p fe54           ths8 0.000E+00
+    n fe52      -->     p mn52           ths8 0.000E+00
+    n co55      -->   he4 mn52           ths8 0.000E+00
+  he4 mn52      -->     p fe55           ths8 0.000E+00
+    n fe53      -->     p mn53           ths8 0.000E+00
+    n co56      -->   he4 mn53           ths8 0.000E+00
+  he4 mn53      -->     p fe56           ths8 0.000E+00
+    n fe54      -->     p mn54           ths8 0.000E+00
+    n co57      -->   he4 mn54           ths8 0.000E+00
+    p fe57      -->   he4 mn54           ths8 0.000E+00
+    n fe55      -->     p mn55           ths8 0.000E+00
+    n co58      -->   he4 mn55           ths8 0.000E+00
+    p fe58      -->   he4 mn55           ths8 0.000E+00
+  he4 fe52      -->     p co55           ths8 0.000E+00
+    n co53      -->     p fe53           ths8 0.000E+00
+    n ni56      -->   he4 fe53           ths8 0.000E+00
+  he4 fe53      -->     p co56           ths8 0.000E+00
+    n co54      -->     p fe54           ths8 0.000E+00
+    n ni57      -->   he4 fe54           ths8 0.000E+00
+    p co57      -->   he4 fe54           ths8 0.000E+00
+    n co55      -->     p fe55           ths8 0.000E+00
+    n ni58      -->   he4 fe55           ths8 0.000E+00
+    p co58      -->   he4 fe55           ths8 0.000E+00
+    n co56      -->     p fe56           ths8 0.000E+00
+    n ni59      -->   he4 fe56           ths8 0.000E+00
+    p co59      -->   he4 fe56           ths8 0.000E+00
+    n co57      -->     p fe57           ths8 0.000E+00
+    n ni60      -->   he4 fe57           ths8 0.000E+00
+    n co58      -->     p fe58           ths8 0.000E+00
+    n ni61      -->   he4 fe58           ths8 0.000E+00
+  he4 co53      -->     p ni56           ths8 0.000E+00
+    n cu57      -->   he4 co54           ths8 0.000E+00
+  he4 co54      -->     p ni57           ths8 0.000E+00
+    n cu58      -->   he4 co55           ths8 0.000E+00
+  he4 co55      -->     p ni58           ths8 0.000E+00
+    n ni56      -->     p co56           ths8 0.000E+00
+    n cu59      -->   he4 co56           ths8 0.000E+00
+  he4 co56      -->     p ni59           ths8 0.000E+00
+    n ni57      -->     p co57           ths8 0.000E+00
+    n cu60      -->   he4 co57           ths8 0.000E+00
+  he4 co57      -->     p ni60           ths8 0.000E+00
+    n ni58      -->     p co58           ths8 0.000E+00
+    n cu61      -->   he4 co58           ths8 0.000E+00
+    p ni61      -->   he4 co58           ths8 0.000E+00
+    n ni59      -->     p co59           ths8 0.000E+00
+    n cu62      -->   he4 co59           ths8 0.000E+00
+    p ni62      -->   he4 co59           ths8 0.000E+00
+    n zn59      -->   he4 ni56           ths8 0.000E+00
+    p cu59      -->   he4 ni56           ths8 0.000E+00
+    n cu57      -->     p ni57           ths8 0.000E+00
+    n zn60      -->   he4 ni57           ths8 0.000E+00
+    p cu60      -->   he4 ni57           ths8 0.000E+00
+    n cu58      -->     p ni58           ths8 0.000E+00
+    n zn61      -->   he4 ni58           ths8 0.000E+00
+    p cu61      -->   he4 ni58           ths8 0.000E+00
+    n cu59      -->     p ni59           ths8 0.000E+00
+    n zn62      -->   he4 ni59           ths8 0.000E+00
+    p cu62      -->   he4 ni59           ths8 0.000E+00
+    n cu60      -->     p ni60           ths8 0.000E+00
+    n zn63      -->   he4 ni60           ths8 0.000E+00
+    p cu63      -->   he4 ni60           ths8 0.000E+00
+    n cu61      -->     p ni61           ths8 0.000E+00
+    n zn64      -->   he4 ni61           ths8 0.000E+00
+    n cu62      -->     p ni62           ths8 0.000E+00
+    n zn65      -->   he4 ni62           ths8 0.000E+00
+  he4 cu57      -->     p zn60           ths8 0.000E+00
+    p zn61      -->   he4 cu58           ths8 0.000E+00
+    n zn59      -->     p cu59           ths8 0.000E+00
+    p zn62      -->   he4 cu59           ths8 0.000E+00
+    n zn60      -->     p cu60           ths8 0.000E+00
+    p zn63      -->   he4 cu60           ths8 0.000E+00
+    n zn61      -->     p cu61           ths8 0.000E+00
+    p zn64      -->   he4 cu61           ths8 0.000E+00
+    n zn62      -->     p cu62           ths8 0.000E+00
+    p zn65      -->   he4 cu62           ths8 0.000E+00
+    n zn63      -->     p cu63           ths8 0.000E+00
+    p zn66      -->   he4 cu63           ths8 0.000E+00
+    n    p    p -->     p    d           cf88 0.000E+00
+  he3  he3      -->     p    p  he4      nacr 0.000E+00
+    d  li7      -->     n  he4  he4      cf88 0.000E+00
+    d  be7      -->     p  he4  he4      cf88 0.000E+00
+    p  be9      -->     d  he4  he4      cf88 0.000E+00
+    n   b8      -->     p  he4  he4       wag 0.000E+00
+    p  b11      -->   he4  he4  he4      nacr 0.000E+00
+  he3  li7      -->     n    p  he4  he4 mafo 0.000E+00
+  he3  be7      -->     p    p  he4  he4 mafo 0.000E+00
+    n    p  he4 -->     p  be9           cf88 0.000E+00
+    1   0.0   1.0   1.0   0.0  1.00000E+00 wc12
+    2   4.0   3.0   3.0   4.0  1.00000E+00   ec
+    3   6.0   8.0   7.0   7.0  1.00000E+00 wc12
+    4   7.0   6.0   6.0   7.0  1.00000E+00 wc12
+    5   8.0   6.0   7.0   7.0  1.00000E+00 wc12
+    6   8.0   7.0   7.0   8.0  1.00000E+00 wc12
+    7   9.0   8.0   8.0   9.0  1.00000E+00 wc12
+    8   9.0   9.0   8.0  10.0  1.00000E+00 wc12
+    9  10.0   8.0   9.0   9.0  1.00000E+00 wc12
+   10  10.0   9.0   9.0  10.0  1.00000E+00 wc12
+   11  11.0  10.0  10.0  11.0  1.00000E+00 wc12
+   12  11.0  11.0  10.0  12.0  1.00000E+00 wc12
+   13  12.0  11.0  11.0  12.0  1.00000E+00 wc12
+   14  13.0  11.0  12.0  12.0  1.00000E+00 wc12
+   15  13.0  12.0  12.0  13.0  1.00000E+00 wc12
+   16  13.0  13.0  12.0  14.0  1.00000E+00 wc12
+   17  13.0  13.0  12.0  14.0  1.00000E+00 wc12
+   18  14.0  17.0  15.0  16.0  1.00000E+00 wc12
+   19  14.0  18.0  15.0  17.0  1.00000E+00 wc12
+   20  15.0  14.0  14.0  15.0  1.00000E+00 wc12
+   21  15.0  15.0  14.0  16.0  1.00000E+00 wc12
+   22  15.0  17.0  16.0  16.0  1.00000E+00 wc12
+   23  15.0  18.0  16.0  17.0  1.00000E+00 wc12
+   24  16.0  19.0  17.0  18.0  1.00000E+00 wc12
+   25  17.0  16.0  16.0  17.0  1.00000E+00 wc12
+   26  17.0  17.0  16.0  18.0  1.00000E+00 wc12
+   27  17.0  19.0  18.0  18.0  1.00000E+00 wc12
+   28  17.0  19.0  16.0  20.0  1.00000E+00 wc12
+   29  18.0  19.0  17.0  20.0  1.00000E+00 wc12
+   30  18.0  21.0  19.0  20.0  1.00000E+00 wc12
+   31  19.0  18.0  18.0  19.0  1.00000E+00 wc12
+   32  19.0  19.0  18.0  20.0  1.00000E+00 wc12
+   33  19.0  21.0  20.0  20.0  1.00000E+00 wc12
+   34  19.0  21.0  18.0  22.0  1.00000E+00 wc12
+   35  20.0  21.0  19.0  22.0  1.00000E+00 wc12
+   36  20.0  25.0  21.0  24.0  1.00000E+00 wc12
+   37  20.0  27.0  21.0  26.0  1.00000E+00 wc12
+   38  20.0  28.0  21.0  27.0  1.00000E+00 wc07
+   39  21.0  22.0  20.0  23.0  1.00000E+00 wc12
+   40  21.0  23.0  20.0  24.0  1.00000E+00 wc12
+   41  21.0  25.0  20.0  26.0  1.00000E+00 bex+
+   42  21.0  25.0  22.0  24.0  1.00000E+00 wc12
+   43  21.0  26.0  22.0  25.0  1.00000E+00 wc12
+   44  21.0  27.0  22.0  26.0  1.00000E+00 wc12
+   45  21.0  28.0  22.0  27.0  1.00000E+00 wc12
+   46  22.0  22.0  21.0  23.0  1.00000E+00 wc12
+   47  22.0  23.0  21.0  24.0  1.00000E+00 wc12
+   48  23.0  23.0  22.0  24.0  1.00000E+00 wc12
+   49  23.0  24.0  22.0  25.0  1.00000E+00 wc12
+   50  23.0  25.0  22.0  26.0  1.00000E+00 wc12
+   51  23.0  26.0  22.0  27.0  1.00000E+00 wc12
+   52  23.0  27.0  22.0  28.0  1.00000E+00 wc12
+   53  23.0  27.0  24.0  26.0  1.00000E+00 wc12
+   54  24.0  24.0  23.0  25.0  1.00000E+00 wc12
+   55  24.0  25.0  23.0  26.0  1.00000E+00 wc12
+   56  24.0  27.0  23.0  28.0  1.00000E+00 wc12
+   57  25.0  25.0  24.0  26.0  1.00000E+00 wc12
+   58  25.0  26.0  24.0  27.0  1.00000E+00 wc12
+   59  25.0  27.0  24.0  28.0  1.00000E+00 wc12
+   60  25.0  28.0  24.0  29.0  1.00000E+00 wc12
+   61  25.0  29.0  24.0  30.0  1.00000E+00 wc12
+   62  25.0  29.0  26.0  28.0  1.00000E+00 wc12
+   63  26.0  26.0  25.0  27.0  1.00000E+00 wc12
+   64  26.0  27.0  25.0  28.0  1.00000E+00 wc12
+   65  26.0  29.0  25.0  30.0  1.00000E+00 wc12
+   66  27.0  26.0  26.0  27.0  1.00000E+00 wc12
+   67  27.0  27.0  26.0  28.0  1.00000E+00 wc12
+   68  27.0  28.0  26.0  29.0  1.00000E+00 wc12
+   69  27.0  29.0  26.0  30.0  1.00000E+00 wc12
+   70  27.0  30.0  26.0  31.0  1.00000E+00 wc12
+   71  27.0  31.0  26.0  32.0  1.00000E+00 wc12
+   72  27.0  31.0  28.0  30.0  1.00000E+00 mo03
+   73  28.0  28.0  27.0  29.0  1.00000E+00 wc12
+   74  28.0  29.0  27.0  30.0  1.00000E+00 wc12
+   75  28.0  31.0  27.0  32.0  1.00000E+00 wc12
+   76  29.0  28.0  28.0  29.0  1.00000E+00 wc12
+   77  29.0  29.0  28.0  30.0  1.00000E+00 wc12
+   78  29.0  30.0  28.0  31.0  1.00000E+00 wc12
+   79  29.0  31.0  28.0  32.0  1.00000E+00 wc12
+   80  29.0  32.0  28.0  33.0  1.00000E+00 wc12
+   81  29.0  33.0  28.0  34.0  1.00000E+00 wc12
+   82  30.0  29.0  29.0  30.0  1.00000E+00 wc12
+   83  30.0  30.0  29.0  31.0  1.00000E+00 wc12
+   84  30.0  31.0  29.0  32.0  1.00000E+00 wc12
+   85  30.0  32.0  29.0  33.0  1.00000E+00 wc12
+   86  30.0  33.0  29.0  34.0  1.00000E+00 wc12
+   87   1.0   0.0   1.0   1.0  1.00000E+00 an06
+   88   1.0   1.0   2.0   1.0  1.00000E+00 de04
+   89   2.0   1.0   2.0   2.0  1.00000E+00 ka02
+   90   1.0   1.0   2.0   2.0  1.00000E+00 nacr
+   91   1.0   1.0   3.0   3.0  1.00000E+00 mb11
+   92   3.0   3.0   3.0   4.0  1.00000E+00 jz10
+   93   3.0   3.0   4.0   3.0  1.00000E+00 nacr
+   94   2.0   1.0   4.0   3.0  1.00000E+00 cd08
+   95   4.0   3.0   5.0   3.0  1.00000E+00 nacr
+   96   5.0   3.0   2.0   2.0  1.00000E+00 wc12
+   97   4.0   5.0   5.0   5.0  1.00000E+00 nacr
+   98   3.0   3.0   5.0   5.0  1.00000E+00 cf88
+   99   5.0   5.0   5.0   6.0  1.00000E+00  wag
+  100   3.0   4.0   5.0   6.0  1.00000E+00 nacr
+  101   5.0   6.0   6.0   6.0  1.00000E+00 nw00
+  102   6.0   6.0   6.0   7.0  1.00000E+00 ka02
+  103   6.0   7.0   6.0   8.0  1.00000E+00 ka02
+  104   6.0   6.0   7.0   6.0  1.00000E+00 ls09
+  105   7.0   6.0   7.0   7.0  1.00000E+00 wies
+  106   6.0   7.0   7.0   7.0  1.00000E+00 nacr
+  107   7.0   7.0   7.0   8.0  1.00000E+00 ka02
+  108   6.0   8.0   7.0   8.0  1.00000E+00 il10
+  109   7.0   6.0   8.0   6.0  1.00000E+00 lg06
+  110   8.0   6.0   8.0   7.0  1.00000E+00 rpsm
+  111   7.0   7.0   8.0   7.0  1.00000E+00 im05
+  112   8.0   7.0   8.0   8.0  1.00000E+00 rpsm
+  113   7.0   8.0   8.0   8.0  1.00000E+00 li10
+  114   6.0   6.0   8.0   8.0  1.00000E+00 chw0
+  115   8.0   8.0   8.0   9.0  1.00000E+00 ka02
+  116   8.0   9.0   8.0  10.0  1.00000E+00 bb92
+  117   6.0   8.0   8.0  10.0  1.00000E+00 il10
+  118   8.0   8.0   9.0   8.0  1.00000E+00 ia08
+  119   9.0   8.0   9.0   9.0  1.00000E+00 rpsm
+  120   8.0   9.0   9.0   9.0  1.00000E+00 il10
+  121   7.0   7.0   9.0   9.0  1.00000E+00 il10
+  122   9.0   9.0   9.0  10.0  1.00000E+00 rpsm
+  123   8.0  10.0   9.0  10.0  1.00000E+00 il10
+  124   7.0   8.0   9.0  10.0  1.00000E+00 il10
+  125   9.0   8.0  10.0   8.0  1.00000E+00 cb09
+  126   8.0   6.0  10.0   8.0  1.00000E+00 wh87
+  127  10.0   8.0  10.0   9.0  1.00000E+00 ths8
+  128   9.0   9.0  10.0   9.0  1.00000E+00 il10
+  129   8.0   7.0  10.0   9.0  1.00000E+00 dc11
+  130  10.0   9.0  10.0  10.0  1.00000E+00 ths8
+  131   9.0  10.0  10.0  10.0  1.00000E+00 nacr
+  132   8.0   8.0  10.0  10.0  1.00000E+00 co10
+  133  10.0  10.0  10.0  11.0  1.00000E+00 kd02
+  134   8.0   9.0  10.0  11.0  1.00000E+00 cf88
+  135  10.0  11.0  10.0  12.0  1.00000E+00 kd02
+  136   8.0  10.0  10.0  12.0  1.00000E+00 il10
+  137  10.0  10.0  11.0  10.0  1.00000E+00 il10
+  138   9.0   8.0  11.0  10.0  1.00000E+00 rpsm
+  139  11.0  10.0  11.0  11.0  1.00000E+00 ths8
+  140  10.0  11.0  11.0  11.0  1.00000E+00 il10
+  141   9.0   9.0  11.0  11.0  1.00000E+00 rpsm
+  142  11.0  11.0  11.0  12.0  1.00000E+00 ths8
+  143  10.0  12.0  11.0  12.0  1.00000E+00 il10
+  144   9.0  10.0  11.0  12.0  1.00000E+00 rpsm
+  145  11.0  11.0  12.0  11.0  1.00000E+00 il10
+  146  10.0   9.0  12.0  11.0  1.00000E+00 ths8
+  147  12.0  11.0  12.0  12.0  1.00000E+00 ths8
+  148  11.0  12.0  12.0  12.0  1.00000E+00 il10
+  149  10.0  10.0  12.0  12.0  1.00000E+00 il10
+  150  12.0  12.0  12.0  13.0  1.00000E+00 kd02
+  151  10.0  11.0  12.0  13.0  1.00000E+00 cf88
+  152  12.0  13.0  12.0  14.0  1.00000E+00 kd02
+  153  10.0  12.0  12.0  14.0  1.00000E+00 il10
+  154  12.0  11.0  13.0  11.0  1.00000E+00 il10
+  155  13.0  11.0  11.0  12.0  1.00000E+00 wc12
+  156  13.0  11.0  10.0  10.0  1.00000E+00 wc12
+  157  13.0  11.0  13.0  12.0  1.00000E+00 ths8
+  158  12.0  12.0  13.0  12.0  1.00000E+00 il10
+  159  11.0  10.0  13.0  12.0  1.00000E+00 ths8
+  160  13.0  12.0  13.0  13.0  1.00000E+00 ths8
+  161  12.0  13.0  13.0  13.0  1.00000E+00 il10
+  162  11.0  11.0  13.0  13.0  1.00000E+00 ths8
+  163  13.0  13.0  13.0  14.0  1.00000E+00 kd02
+  164  12.0  14.0  13.0  14.0  1.00000E+00 il10
+  165  11.0  12.0  13.0  14.0  1.00000E+00 ths8
+  166  13.0  14.0  14.0  14.0  1.00000E+00 il10
+  167  12.0  12.0  14.0  14.0  1.00000E+00 st08
+  168  14.0  14.0  14.0  15.0  1.00000E+00 kd02
+  169  12.0  13.0  14.0  15.0  1.00000E+00 cf88
+  170  14.0  15.0  14.0  16.0  1.00000E+00 kd02
+  171  12.0  14.0  14.0  16.0  1.00000E+00 cf88
+  172  14.0  16.0  14.0  17.0  1.00000E+00 kd02
+  173  14.0  17.0  14.0  18.0  1.00000E+00 rath
+  174  14.0  14.0  15.0  14.0  1.00000E+00 il10
+  175  13.0  12.0  15.0  14.0  1.00000E+00 ths8
+  176  15.0  14.0  15.0  15.0  1.00000E+00 ths8
+  177  14.0  15.0  15.0  15.0  1.00000E+00 il10
+  178  13.0  13.0  15.0  15.0  1.00000E+00 ths8
+  179  15.0  15.0  15.0  16.0  1.00000E+00 ths8
+  180  14.0  16.0  15.0  16.0  1.00000E+00 il10
+  181  13.0  14.0  15.0  16.0  1.00000E+00 ths8
+  182  15.0  16.0  15.0  17.0  1.00000E+00 kd02
+  183  14.0  17.0  15.0  17.0  1.00000E+00 rath
+  184  15.0  17.0  15.0  18.0  1.00000E+00 rath
+  185  14.0  18.0  15.0  18.0  1.00000E+00 rath
+  186  15.0  16.0  16.0  16.0  1.00000E+00 il10
+  187  14.0  14.0  16.0  16.0  1.00000E+00 ths8
+  188  16.0  16.0  16.0  17.0  1.00000E+00 kd02
+  189  15.0  17.0  16.0  17.0  1.00000E+00 rath
+  190  14.0  15.0  16.0  17.0  1.00000E+00 ths8
+  191  16.0  17.0  16.0  18.0  1.00000E+00 kd02
+  192  15.0  18.0  16.0  18.0  1.00000E+00 rath
+  193  14.0  16.0  16.0  18.0  1.00000E+00 ths8
+  194  16.0  18.0  16.0  19.0  1.00000E+00 kd02
+  195  14.0  17.0  16.0  19.0  1.00000E+00 rath
+  196  16.0  19.0  16.0  20.0  1.00000E+00 ths8
+  197  14.0  18.0  16.0  20.0  1.00000E+00 rath
+  198  16.0  16.0  17.0  16.0  1.00000E+00 il10
+  199  15.0  14.0  17.0  16.0  1.00000E+00 ths8
+  200  17.0  16.0  17.0  17.0  1.00000E+00 ths8
+  201  16.0  17.0  17.0  17.0  1.00000E+00 ths8
+  202  15.0  15.0  17.0  17.0  1.00000E+00 ths8
+  203  17.0  17.0  17.0  18.0  1.00000E+00 ths8
+  204  16.0  18.0  17.0  18.0  1.00000E+00 ths8
+  205  15.0  16.0  17.0  18.0  1.00000E+00 ths8
+  206  17.0  18.0  17.0  19.0  1.00000E+00 kd02
+  207  16.0  19.0  17.0  19.0  1.00000E+00 ths8
+  208  15.0  17.0  17.0  19.0  1.00000E+00 rath
+  209  17.0  19.0  17.0  20.0  1.00000E+00 kd02
+  210  16.0  20.0  17.0  20.0  1.00000E+00 ths8
+  211  15.0  18.0  17.0  20.0  1.00000E+00 rath
+  212  17.0  18.0  18.0  18.0  1.00000E+00 il10
+  213  16.0  16.0  18.0  18.0  1.00000E+00 ths8
+  214  18.0  18.0  18.0  19.0  1.00000E+00 kd02
+  215  17.0  19.0  18.0  19.0  1.00000E+00 ths8
+  216  16.0  17.0  18.0  19.0  1.00000E+00 ths8
+  217  18.0  19.0  18.0  20.0  1.00000E+00 ths8
+  218  17.0  20.0  18.0  20.0  1.00000E+00 ths8
+  219  16.0  18.0  18.0  20.0  1.00000E+00 SM93
+  220  18.0  20.0  18.0  21.0  1.00000E+00 kd02
+  221  16.0  19.0  18.0  21.0  1.00000E+00 ths8
+  222  18.0  21.0  18.0  22.0  1.00000E+00 kd02
+  223  16.0  20.0  18.0  22.0  1.00000E+00 ths8
+  224  18.0  18.0  19.0  18.0  1.00000E+00 il10
+  225  17.0  16.0  19.0  18.0  1.00000E+00 ths8
+  226  19.0  18.0  19.0  19.0  1.00000E+00 ths8
+  227  18.0  19.0  19.0  19.0  1.00000E+00 ths8
+  228  17.0  17.0  19.0  19.0  1.00000E+00 ths8
+  229  19.0  19.0  19.0  20.0  1.00000E+00 ths8
+  230  18.0  20.0  19.0  20.0  1.00000E+00 ths8
+  231  17.0  18.0  19.0  20.0  1.00000E+00 ths8
+  232  19.0  20.0  19.0  21.0  1.00000E+00 kd02
+  233  18.0  21.0  19.0  21.0  1.00000E+00 ths8
+  234  17.0  19.0  19.0  21.0  1.00000E+00 ths8
+  235  19.0  21.0  19.0  22.0  1.00000E+00 kd02
+  236  18.0  22.0  19.0  22.0  1.00000E+00 ths8
+  237  17.0  20.0  19.0  22.0  1.00000E+00 ths8
+  238  19.0  20.0  20.0  20.0  1.00000E+00 ths8
+  239  18.0  18.0  20.0  20.0  1.00000E+00 ths8
+  240  20.0  20.0  20.0  21.0  1.00000E+00 kd02
+  241  19.0  21.0  20.0  21.0  1.00000E+00 ths8
+  242  18.0  19.0  20.0  21.0  1.00000E+00 ths8
+  243  20.0  21.0  20.0  22.0  1.00000E+00 kd02
+  244  19.0  22.0  20.0  22.0  1.00000E+00 SM86
+  245  18.0  20.0  20.0  22.0  1.00000E+00 ths8
+  246  20.0  22.0  20.0  23.0  1.00000E+00 kd02
+  247  18.0  21.0  20.0  23.0  1.00000E+00 ths8
+  248  20.0  23.0  20.0  24.0  1.00000E+00 kd02
+  249  18.0  22.0  20.0  24.0  1.00000E+00 ths8
+  250  20.0  24.0  20.0  25.0  1.00000E+00 kd02
+  251  20.0  25.0  20.0  26.0  1.00000E+00 kd02
+  252  20.0  26.0  20.0  27.0  1.00000E+00 kd02
+  253  20.0  27.0  20.0  28.0  1.00000E+00 ths8
+  254  20.0  22.0  21.0  22.0  1.00000E+00 ths8
+  255  19.0  20.0  21.0  22.0  1.00000E+00 ths8
+  256  21.0  22.0  21.0  23.0  1.00000E+00 ths8
+  257  20.0  23.0  21.0  23.0  1.00000E+00 ths8
+  258  19.0  21.0  21.0  23.0  1.00000E+00 ths8
+  259  21.0  23.0  21.0  24.0  1.00000E+00 ths8
+  260  20.0  24.0  21.0  24.0  1.00000E+00 ths8
+  261  19.0  22.0  21.0  24.0  1.00000E+00 ths8
+  262  21.0  24.0  21.0  25.0  1.00000E+00 kd02
+  263  20.0  25.0  21.0  25.0  1.00000E+00 ths8
+  264  21.0  25.0  21.0  26.0  1.00000E+00 rath
+  265  20.0  26.0  21.0  26.0  1.00000E+00 ths8
+  266  21.0  26.0  21.0  27.0  1.00000E+00 rath
+  267  20.0  27.0  21.0  27.0  1.00000E+00 ths8
+  268  21.0  27.0  21.0  28.0  1.00000E+00 rath
+  269  20.0  28.0  21.0  28.0  1.00000E+00 ths8
+  270  21.0  22.0  22.0  22.0  1.00000E+00 ths8
+  271  20.0  20.0  22.0  22.0  1.00000E+00 chw0
+  272  22.0  22.0  22.0  23.0  1.00000E+00 ths8
+  273  21.0  23.0  22.0  23.0  1.00000E+00 ths8
+  274  20.0  21.0  22.0  23.0  1.00000E+00 ths8
+  275  22.0  23.0  22.0  24.0  1.00000E+00 ths8
+  276  21.0  24.0  22.0  24.0  1.00000E+00 ths8
+  277  20.0  22.0  22.0  24.0  1.00000E+00 ths8
+  278  22.0  24.0  22.0  25.0  1.00000E+00 kd02
+  279  21.0  25.0  22.0  25.0  1.00000E+00 rath
+  280  20.0  23.0  22.0  25.0  1.00000E+00 ths8
+  281  22.0  25.0  22.0  26.0  1.00000E+00 kd02
+  282  21.0  26.0  22.0  26.0  1.00000E+00 rath
+  283  20.0  24.0  22.0  26.0  1.00000E+00 ths8
+  284  22.0  26.0  22.0  27.0  1.00000E+00 kd02
+  285  21.0  27.0  22.0  27.0  1.00000E+00 rath
+  286  20.0  25.0  22.0  27.0  1.00000E+00 ths8
+  287  22.0  27.0  22.0  28.0  1.00000E+00 kd02
+  288  21.0  28.0  22.0  28.0  1.00000E+00 rath
+  289  20.0  26.0  22.0  28.0  1.00000E+00 ths8
+  290  22.0  23.0  23.0  23.0  1.00000E+00 ths8
+  291  23.0  23.0  23.0  24.0  1.00000E+00 ths8
+  292  22.0  24.0  23.0  24.0  1.00000E+00 ths8
+  293  21.0  22.0  23.0  24.0  1.00000E+00 ths8
+  294  23.0  24.0  23.0  25.0  1.00000E+00 ths8
+  295  22.0  25.0  23.0  25.0  1.00000E+00 ths8
+  296  21.0  23.0  23.0  25.0  1.00000E+00 ths8
+  297  23.0  25.0  23.0  26.0  1.00000E+00 ths8
+  298  22.0  26.0  23.0  26.0  1.00000E+00 ths8
+  299  21.0  24.0  23.0  26.0  1.00000E+00 ths8
+  300  23.0  26.0  23.0  27.0  1.00000E+00 ths8
+  301  22.0  27.0  23.0  27.0  1.00000E+00 ths8
+  302  21.0  25.0  23.0  27.0  1.00000E+00 rath
+  303  23.0  27.0  23.0  28.0  1.00000E+00 kd02
+  304  22.0  28.0  23.0  28.0  1.00000E+00 ths8
+  305  21.0  26.0  23.0  28.0  1.00000E+00 rath
+  306  23.0  24.0  24.0  24.0  1.00000E+00 nfis
+  307  22.0  22.0  24.0  24.0  1.00000E+00 ths8
+  308  24.0  24.0  24.0  25.0  1.00000E+00 ths8
+  309  23.0  25.0  24.0  25.0  1.00000E+00 ths8
+  310  22.0  23.0  24.0  25.0  1.00000E+00 ths8
+  311  24.0  25.0  24.0  26.0  1.00000E+00 ths8
+  312  23.0  26.0  24.0  26.0  1.00000E+00 ths8
+  313  22.0  24.0  24.0  26.0  1.00000E+00 ths8
+  314  24.0  26.0  24.0  27.0  1.00000E+00 kd02
+  315  23.0  27.0  24.0  27.0  1.00000E+00 ths8
+  316  22.0  25.0  24.0  27.0  1.00000E+00 ths8
+  317  24.0  27.0  24.0  28.0  1.00000E+00 kd02
+  318  23.0  28.0  24.0  28.0  1.00000E+00 ths8
+  319  22.0  26.0  24.0  28.0  1.00000E+00 ths8
+  320  24.0  28.0  24.0  29.0  1.00000E+00 kd02
+  321  22.0  27.0  24.0  29.0  1.00000E+00 ths8
+  322  24.0  29.0  24.0  30.0  1.00000E+00 kd02
+  323  22.0  28.0  24.0  30.0  1.00000E+00 ths8
+  324  24.0  25.0  25.0  25.0  1.00000E+00 ths8
+  325  23.0  23.0  25.0  25.0  1.00000E+00 ths8
+  326  25.0  25.0  25.0  26.0  1.00000E+00 ths8
+  327  24.0  26.0  25.0  26.0  1.00000E+00 ths8
+  328  23.0  24.0  25.0  26.0  1.00000E+00 ths8
+  329  25.0  26.0  25.0  27.0  1.00000E+00 ths8
+  330  24.0  27.0  25.0  27.0  1.00000E+00 ths8
+  331  23.0  25.0  25.0  27.0  1.00000E+00 ths8
+  332  25.0  27.0  25.0  28.0  1.00000E+00 ths8
+  333  24.0  28.0  25.0  28.0  1.00000E+00 ths8
+  334  23.0  26.0  25.0  28.0  1.00000E+00 ths8
+  335  25.0  28.0  25.0  29.0  1.00000E+00 ths8
+  336  24.0  29.0  25.0  29.0  1.00000E+00 ths8
+  337  23.0  27.0  25.0  29.0  1.00000E+00 ths8
+  338  25.0  29.0  25.0  30.0  1.00000E+00 ths8
+  339  24.0  30.0  25.0  30.0  1.00000E+00 ths8
+  340  23.0  28.0  25.0  30.0  1.00000E+00 ths8
+  341  25.0  26.0  26.0  26.0  1.00000E+00 ths8
+  342  24.0  24.0  26.0  26.0  1.00000E+00 ths8
+  343  26.0  26.0  26.0  27.0  1.00000E+00 ths8
+  344  25.0  27.0  26.0  27.0  1.00000E+00 ths8
+  345  24.0  25.0  26.0  27.0  1.00000E+00 ths8
+  346  26.0  27.0  26.0  28.0  1.00000E+00 ths8
+  347  25.0  28.0  26.0  28.0  1.00000E+00 ths8
+  348  24.0  26.0  26.0  28.0  1.00000E+00 ths8
+  349  26.0  28.0  26.0  29.0  1.00000E+00 kd02
+  350  25.0  29.0  26.0  29.0  1.00000E+00 ths8
+  351  24.0  27.0  26.0  29.0  1.00000E+00 ths8
+  352  26.0  29.0  26.0  30.0  1.00000E+00 kd02
+  353  25.0  30.0  26.0  30.0  1.00000E+00 ths8
+  354  24.0  28.0  26.0  30.0  1.00000E+00 ths8
+  355  26.0  30.0  26.0  31.0  1.00000E+00 kd02
+  356  24.0  29.0  26.0  31.0  1.00000E+00 ths8
+  357  26.0  31.0  26.0  32.0  1.00000E+00 kd02
+  358  24.0  30.0  26.0  32.0  1.00000E+00 ths8
+  359  26.0  26.0  27.0  26.0  1.00000E+00 ths8
+  360  27.0  26.0  27.0  27.0  1.00000E+00 ths8
+  361  26.0  27.0  27.0  27.0  1.00000E+00 ths8
+  362  25.0  25.0  27.0  27.0  1.00000E+00 ths8
+  363  27.0  27.0  27.0  28.0  1.00000E+00 ths8
+  364  26.0  28.0  27.0  28.0  1.00000E+00 ths8
+  365  25.0  26.0  27.0  28.0  1.00000E+00 ths8
+  366  27.0  28.0  27.0  29.0  1.00000E+00 ths8
+  367  26.0  29.0  27.0  29.0  1.00000E+00 ths8
+  368  25.0  27.0  27.0  29.0  1.00000E+00 ths8
+  369  27.0  29.0  27.0  30.0  1.00000E+00 ths8
+  370  26.0  30.0  27.0  30.0  1.00000E+00 ths8
+  371  25.0  28.0  27.0  30.0  1.00000E+00 ths8
+  372  27.0  30.0  27.0  31.0  1.00000E+00 ths8
+  373  26.0  31.0  27.0  31.0  1.00000E+00 ths8
+  374  25.0  29.0  27.0  31.0  1.00000E+00 ths8
+  375  27.0  31.0  27.0  32.0  1.00000E+00 ths8
+  376  26.0  32.0  27.0  32.0  1.00000E+00 ths8
+  377  25.0  30.0  27.0  32.0  1.00000E+00 ths8
+  378  27.0  28.0  28.0  28.0  1.00000E+00 ths8
+  379  26.0  26.0  28.0  28.0  1.00000E+00 ths8
+  380  28.0  28.0  28.0  29.0  1.00000E+00 ths8
+  381  27.0  29.0  28.0  29.0  1.00000E+00 ths8
+  382  26.0  27.0  28.0  29.0  1.00000E+00 ths8
+  383  28.0  29.0  28.0  30.0  1.00000E+00 ths8
+  384  27.0  30.0  28.0  30.0  1.00000E+00 ths8
+  385  26.0  28.0  28.0  30.0  1.00000E+00 ths8
+  386  28.0  30.0  28.0  31.0  1.00000E+00 kd02
+  387  27.0  31.0  28.0  31.0  1.00000E+00 ths8
+  388  26.0  29.0  28.0  31.0  1.00000E+00 ths8
+  389  28.0  31.0  28.0  32.0  1.00000E+00 kd02
+  390  27.0  32.0  28.0  32.0  1.00000E+00 ths8
+  391  26.0  30.0  28.0  32.0  1.00000E+00 ths8
+  392  28.0  32.0  28.0  33.0  1.00000E+00 kd02
+  393  26.0  31.0  28.0  33.0  1.00000E+00 ths8
+  394  28.0  33.0  28.0  34.0  1.00000E+00 kd02
+  395  26.0  32.0  28.0  34.0  1.00000E+00 ths8
+  396  28.0  28.0  29.0  28.0  1.00000E+00 wien
+  397  27.0  26.0  29.0  28.0  1.00000E+00 ths8
+  398  29.0  28.0  29.0  29.0  1.00000E+00 ths8
+  399  28.0  29.0  29.0  29.0  1.00000E+00 ths8
+  400  27.0  27.0  29.0  29.0  1.00000E+00 ths8
+  401  29.0  29.0  29.0  30.0  1.00000E+00 ths8
+  402  28.0  30.0  29.0  30.0  1.00000E+00 ths8
+  403  27.0  28.0  29.0  30.0  1.00000E+00 ths8
+  404  29.0  30.0  29.0  31.0  1.00000E+00 ths8
+  405  28.0  31.0  29.0  31.0  1.00000E+00 ths8
+  406  27.0  29.0  29.0  31.0  1.00000E+00 ths8
+  407  29.0  31.0  29.0  32.0  1.00000E+00 ths8
+  408  28.0  32.0  29.0  32.0  1.00000E+00 ths8
+  409  27.0  30.0  29.0  32.0  1.00000E+00 ths8
+  410  29.0  32.0  29.0  33.0  1.00000E+00 ths8
+  411  28.0  33.0  29.0  33.0  1.00000E+00 ths8
+  412  27.0  31.0  29.0  33.0  1.00000E+00 ths8
+  413  29.0  33.0  29.0  34.0  1.00000E+00 ths8
+  414  28.0  34.0  29.0  34.0  1.00000E+00 ths8
+  415  27.0  32.0  29.0  34.0  1.00000E+00 ths8
+  416  29.0  29.0  30.0  29.0  1.00000E+00 nfis
+  417  30.0  29.0  28.0  30.0  1.00000E+00 wc12
+  418  30.0  29.0  30.0  30.0  1.00000E+00 ths8
+  419  29.0  30.0  30.0  30.0  1.00000E+00 ths8
+  420  28.0  28.0  30.0  30.0  1.00000E+00 ths8
+  421  30.0  30.0  30.0  31.0  1.00000E+00 ths8
+  422  29.0  31.0  30.0  31.0  1.00000E+00 ths8
+  423  28.0  29.0  30.0  31.0  1.00000E+00 ths8
+  424  30.0  31.0  30.0  32.0  1.00000E+00 ths8
+  425  29.0  32.0  30.0  32.0  1.00000E+00 ths8
+  426  28.0  30.0  30.0  32.0  1.00000E+00 ths8
+  427  30.0  32.0  30.0  33.0  1.00000E+00 ths8
+  428  29.0  33.0  30.0  33.0  1.00000E+00 ths8
+  429  28.0  31.0  30.0  33.0  1.00000E+00 ths8
+  430  30.0  33.0  30.0  34.0  1.00000E+00 ths8
+  431  29.0  34.0  30.0  34.0  1.00000E+00 ths8
+  432  28.0  32.0  30.0  34.0  1.00000E+00 ths8
+  433  30.0  34.0  30.0  35.0  1.00000E+00 kd02
+  434  28.0  33.0  30.0  35.0  1.00000E+00 ths8
+  435  30.0  35.0  30.0  36.0  1.00000E+00 kd02
+  436  28.0  34.0  30.0  36.0  1.00000E+00 ths8
+  437   2.0   2.0   3.0   3.0  1.00000E+00 cf88
+  438   2.0   2.0   4.0   5.0  1.00000E+00 br10
+  439   2.0   2.0   6.0   6.0  1.00000E+00 fy05
+  440   1.0   0.0   1.0   1.0  1.00000E+00 bet+
+  441   1.0   0.0   1.0   1.0  1.00000E+00   ec
+  442   2.0   1.0   2.0   2.0  1.00000E+00 bet+
+  443   1.0   1.0   2.0   1.0  1.00000E+00 de04
+  444   2.0   1.0   2.0   2.0  1.00000E+00 de04
+  445   3.0   3.0   2.0   1.0  1.00000E+00 pt05
+  446   4.0   3.0   2.0   2.0  1.00000E+00  wag
+  447   3.0   4.0   2.0   2.0  1.00000E+00 de04
+  448   3.0   3.0   4.0   3.0  1.00000E+00 mafo
+  449   3.0   3.0   3.0   4.0  1.00000E+00 mafo
+  450   4.0   5.0   3.0   3.0  1.00000E+00 cf88
+  451   4.0   3.0   3.0   4.0  1.00000E+00 de04
+  452   5.0   5.0   3.0   4.0  1.00000E+00 cf88
+  453   5.0   5.0   4.0   3.0  1.00000E+00 nacr
+  454   4.0   5.0   6.0   6.0  1.00000E+00 cf88
+  455   5.0   5.0   7.0   6.0  1.00000E+00 cf88
+  456   5.0   5.0   6.0   7.0  1.00000E+00  wag
+  457   5.0   6.0   7.0   7.0  1.00000E+00 cf88
+  458   5.0   6.0   6.0   8.0  1.00000E+00 bb92
+  459   8.0   7.0   6.0   6.0  1.00000E+00 cf88
+  460   7.0   8.0   6.0   6.0  1.00000E+00 nacr
+  461  12.0  11.0   6.0   6.0  1.00000E+00 cf88
+  462   6.0   6.0  11.0  12.0  1.00000E+00 cf88
+  463   6.0   6.0  10.0  10.0  1.00000E+00 cf88
+  464   7.0   6.0   6.0   7.0  1.00000E+00 nacr
+  465   6.0   7.0   7.0   7.0  1.00000E+00 bb92
+  466   6.0   7.0   8.0   8.0  1.00000E+00 hd08
+  467   7.0   7.0   6.0   8.0  1.00000E+00 cf88
+  468   6.0   8.0   7.0   8.0  1.00000E+00 bk92
+  469   8.0   9.0   6.0   8.0  1.00000E+00 kg91
+  470   7.0   6.0   8.0   8.0  1.00000E+00 cf88
+  471   8.0   6.0   7.0   7.0  1.00000E+00 nacr
+  472   9.0   8.0   7.0   7.0  1.00000E+00 nacr
+  473   8.0   9.0   7.0   7.0  1.00000E+00 il10
+  474   8.0   7.0   7.0   8.0  1.00000E+00 nacr
+  475   9.0   9.0   7.0   8.0  1.00000E+00 cf88
+  476   8.0  10.0   7.0   8.0  1.00000E+00 il10
+  477   8.0   6.0   9.0   8.0  1.00000E+00 Ha96
+  478  10.0   8.0   8.0   7.0  1.00000E+00 ths8
+  479   9.0   9.0   8.0   7.0  1.00000E+00 il10
+  480  10.0   9.0   8.0   8.0  1.00000E+00 ths8
+  481   9.0  10.0   8.0   8.0  1.00000E+00 nacr
+  482   8.0   8.0  13.0  14.0  1.00000E+00 cf88
+  483   8.0   8.0  12.0  12.0  1.00000E+00 cf88
+  484   8.0   8.0  15.0  16.0  1.00000E+00 cf88
+  485   8.0   8.0  14.0  14.0  1.00000E+00 cf88
+  486   9.0   8.0   8.0   9.0  1.00000E+00  wag
+  487   8.0   9.0  10.0  10.0  1.00000E+00 nacr
+  488   9.0   9.0   8.0  10.0  1.00000E+00  wag
+  489  10.0  11.0   8.0  10.0  1.00000E+00 nacr
+  490   9.0   8.0  10.0  10.0  1.00000E+00 nacr
+  491  10.0   8.0   9.0   9.0  1.00000E+00 ths8
+  492  11.0  10.0   9.0   9.0  1.00000E+00 ths8
+  493   9.0   9.0  10.0  11.0  1.00000E+00 rpsm
+  494  10.0   9.0   9.0  10.0  1.00000E+00 nacr
+  495  11.0  11.0   9.0  10.0  1.00000E+00 cf88
+  496   9.0  10.0  10.0  12.0  1.00000E+00 ua08
+  497  10.0   8.0  11.0  10.0  1.00000E+00 mv09
+  498  10.0   9.0  11.0  11.0  1.00000E+00 ths8
+  499  12.0  11.0  10.0  10.0  1.00000E+00 ths8
+  500  11.0  12.0  10.0  10.0  1.00000E+00 il10
+  501  10.0  10.0  15.0  16.0  1.00000E+00 rolf
+  502  10.0  10.0  14.0  14.0  1.00000E+00 rolf
+  503  11.0  10.0  10.0  11.0  1.00000E+00 ths8
+  504  10.0  11.0  12.0  12.0  1.00000E+00 nacr
+  505  11.0  11.0  10.0  12.0  1.00000E+00 cf88
+  506  12.0  13.0  10.0  12.0  1.00000E+00 il10
+  507  13.0  11.0  11.0  10.0  1.00000E+00 ths8
+  508  11.0  10.0  12.0  12.0  1.00000E+00 nacr
+  509  13.0  12.0  11.0  11.0  1.00000E+00 ths8
+  510  11.0  11.0  12.0  13.0  1.00000E+00 ths8
+  511  12.0  11.0  11.0  12.0  1.00000E+00 nacr
+  512  13.0  13.0  11.0  12.0  1.00000E+00 ol11
+  513  11.0  12.0  12.0  14.0  1.00000E+00 ths8
+  514  12.0  11.0  13.0  13.0  1.00000E+00 ths8
+  515  13.0  11.0  12.0  12.0  1.00000E+00 ths8
+  516  13.0  14.0  12.0  12.0  1.00000E+00 il10
+  517  13.0  12.0  12.0  13.0  1.00000E+00 ths8
+  518  12.0  13.0  14.0  14.0  1.00000E+00 nacr
+  519  13.0  13.0  12.0  14.0  1.00000E+00 ol11
+  520  12.0  14.0  14.0  15.0  1.00000E+00 nacr
+  521  13.0  12.0  14.0  14.0  1.00000E+00 ths8
+  522  15.0  14.0  13.0  13.0  1.00000E+00 ths8
+  523  13.0  13.0  14.0  15.0  1.00000E+00 ths8
+  524  15.0  15.0  13.0  14.0  1.00000E+00 nacr
+  525  13.0  14.0  14.0  16.0  1.00000E+00 ths8
+  526  15.0  16.0  14.0  14.0  1.00000E+00 il10
+  527  15.0  14.0  14.0  15.0  1.00000E+00 ths8
+  528  16.0  16.0  14.0  15.0  1.00000E+00 ths8
+  529  15.0  17.0  14.0  15.0  1.00000E+00 rath
+  530  15.0  15.0  14.0  16.0  1.00000E+00 ths8
+  531  16.0  17.0  14.0  16.0  1.00000E+00 ths8
+  532  15.0  18.0  14.0  16.0  1.00000E+00 rath
+  533  14.0  17.0  15.0  16.0  1.00000E+00 rath
+  534  14.0  17.0  16.0  18.0  1.00000E+00 rath
+  535  15.0  17.0  14.0  18.0  1.00000E+00 rath
+  536  16.0  19.0  14.0  18.0  1.00000E+00 ths8
+  537  15.0  14.0  16.0  16.0  1.00000E+00 ths8
+  538  17.0  16.0  15.0  15.0  1.00000E+00 ths8
+  539  15.0  15.0  16.0  17.0  1.00000E+00 ths8
+  540  17.0  17.0  15.0  16.0  1.00000E+00 ths8
+  541  15.0  16.0  16.0  18.0  1.00000E+00 ths8
+  542  15.0  17.0  16.0  16.0  1.00000E+00 rath
+  543  17.0  18.0  15.0  17.0  1.00000E+00 ths8
+  544  16.0  19.0  15.0  17.0  1.00000E+00 ths8
+  545  16.0  17.0  15.0  18.0  1.00000E+00 ths8
+  546  17.0  19.0  15.0  18.0  1.00000E+00 ths8
+  547  16.0  20.0  15.0  18.0  1.00000E+00 ths8
+  548  17.0  18.0  16.0  16.0  1.00000E+00 il10
+  549  17.0  16.0  16.0  17.0  1.00000E+00 ths8
+  550  18.0  18.0  16.0  17.0  1.00000E+00 ths8
+  551  17.0  19.0  16.0  17.0  1.00000E+00 ths8
+  552  17.0  17.0  16.0  18.0  1.00000E+00 ths8
+  553  18.0  19.0  16.0  18.0  1.00000E+00 SM93
+  554  17.0  20.0  16.0  18.0  1.00000E+00 SM93
+  555  17.0  18.0  16.0  19.0  1.00000E+00 ths8
+  556  16.0  19.0  18.0  20.0  1.00000E+00 ths8
+  557  17.0  19.0  16.0  20.0  1.00000E+00 ths8
+  558  18.0  21.0  16.0  20.0  1.00000E+00 ths8
+  559  17.0  16.0  18.0  18.0  1.00000E+00 ths8
+  560  19.0  18.0  17.0  17.0  1.00000E+00 ths8
+  561  17.0  17.0  18.0  19.0  1.00000E+00 ths8
+  562  19.0  19.0  17.0  18.0  1.00000E+00 ths8
+  563  17.0  18.0  18.0  20.0  1.00000E+00 ths8
+  564  18.0  18.0  17.0  19.0  1.00000E+00 ths8
+  565  19.0  20.0  17.0  19.0  1.00000E+00 ths8
+  566  18.0  21.0  17.0  19.0  1.00000E+00 ths8
+  567  18.0  19.0  17.0  20.0  1.00000E+00 ths8
+  568  19.0  21.0  17.0  20.0  1.00000E+00 ths8
+  569  18.0  22.0  17.0  20.0  1.00000E+00 ths8
+  570  19.0  20.0  18.0  18.0  1.00000E+00 ths8
+  571  19.0  18.0  18.0  19.0  1.00000E+00 ths8
+  572  20.0  20.0  18.0  19.0  1.00000E+00 ths8
+  573  19.0  21.0  18.0  19.0  1.00000E+00 ths8
+  574  19.0  19.0  18.0  20.0  1.00000E+00 ths8
+  575  20.0  21.0  18.0  20.0  1.00000E+00 SM86
+  576  19.0  22.0  18.0  20.0  1.00000E+00 SM86
+  577  19.0  20.0  18.0  21.0  1.00000E+00 ths8
+  578  20.0  22.0  18.0  21.0  1.00000E+00 ths8
+  579  19.0  21.0  18.0  22.0  1.00000E+00 ths8
+  580  20.0  23.0  18.0  22.0  1.00000E+00 ths8
+  581  19.0  18.0  20.0  20.0  1.00000E+00 ths8
+  582  19.0  19.0  20.0  21.0  1.00000E+00 ths8
+  583  20.0  22.0  19.0  20.0  1.00000E+00 ths8
+  584  19.0  21.0  20.0  20.0  1.00000E+00 ths8
+  585  21.0  22.0  19.0  21.0  1.00000E+00 ths8
+  586  19.0  21.0  20.0  23.0  1.00000E+00 ths8
+  587  20.0  21.0  19.0  22.0  1.00000E+00 SM86
+  588  21.0  23.0  19.0  22.0  1.00000E+00 SM91
+  589  19.0  22.0  20.0  24.0  1.00000E+00 SM91
+  590  21.0  22.0  20.0  20.0  1.00000E+00 ths8
+  591  22.0  22.0  20.0  21.0  1.00000E+00 ths8
+  592  21.0  23.0  20.0  21.0  1.00000E+00 ths8
+  593  22.0  23.0  20.0  22.0  1.00000E+00 ths8
+  594  21.0  24.0  20.0  22.0  1.00000E+00 ths8
+  595  21.0  22.0  20.0  23.0  1.00000E+00 ths8
+  596  20.0  23.0  22.0  24.0  1.00000E+00 ths8
+  597  21.0  25.0  20.0  23.0  1.00000E+00 rath
+  598  21.0  23.0  20.0  24.0  1.00000E+00 ths8
+  599  22.0  25.0  20.0  24.0  1.00000E+00 ths8
+  600  21.0  26.0  20.0  24.0  1.00000E+00 rath
+  601  21.0  24.0  20.0  25.0  1.00000E+00 ths8
+  602  20.0  25.0  22.0  26.0  1.00000E+00 ths8
+  603  21.0  27.0  20.0  25.0  1.00000E+00 rath
+  604  21.0  25.0  20.0  26.0  1.00000E+00 rath
+  605  22.0  27.0  20.0  26.0  1.00000E+00 ths8
+  606  21.0  28.0  20.0  26.0  1.00000E+00 rath
+  607  20.0  27.0  21.0  26.0  1.00000E+00 ths8
+  608  20.0  27.0  22.0  28.0  1.00000E+00 ths8
+  609  21.0  27.0  20.0  28.0  1.00000E+00 rath
+  610  23.0  23.0  21.0  22.0  1.00000E+00 ths8
+  611  21.0  22.0  22.0  24.0  1.00000E+00 ths8
+  612  22.0  22.0  21.0  23.0  1.00000E+00 ths8
+  613  23.0  24.0  21.0  23.0  1.00000E+00 ths8
+  614  21.0  23.0  22.0  25.0  1.00000E+00 ths8
+  615  22.0  23.0  21.0  24.0  1.00000E+00 ths8
+  616  23.0  25.0  21.0  24.0  1.00000E+00 ths8
+  617  21.0  24.0  22.0  26.0  1.00000E+00 ths8
+  618  21.0  25.0  22.0  24.0  1.00000E+00 rath
+  619  21.0  25.0  23.0  26.0  1.00000E+00 rath
+  620  21.0  25.0  22.0  27.0  1.00000E+00 rath
+  621  22.0  25.0  21.0  26.0  1.00000E+00 ths8
+  622  23.0  27.0  21.0  26.0  1.00000E+00 ths8
+  623  21.0  26.0  22.0  28.0  1.00000E+00 rath
+  624  21.0  27.0  22.0  26.0  1.00000E+00 rath
+  625  21.0  27.0  23.0  28.0  1.00000E+00 rath
+  626  21.0  28.0  22.0  27.0  1.00000E+00 rath
+  627  23.0  24.0  22.0  22.0  1.00000E+00 chw0
+  628  24.0  24.0  22.0  23.0  1.00000E+00 ths8
+  629  22.0  23.0  23.0  25.0  1.00000E+00 ths8
+  630  23.0  23.0  22.0  24.0  1.00000E+00 ths8
+  631  24.0  25.0  22.0  24.0  1.00000E+00 ths8
+  632  23.0  26.0  22.0  24.0  1.00000E+00 ths8
+  633  23.0  24.0  22.0  25.0  1.00000E+00 ths8
+  634  24.0  26.0  22.0  25.0  1.00000E+00 ths8
+  635  23.0  27.0  22.0  25.0  1.00000E+00 ths8
+  636  23.0  25.0  22.0  26.0  1.00000E+00 ths8
+  637  24.0  27.0  22.0  26.0  1.00000E+00 ths8
+  638  23.0  28.0  22.0  26.0  1.00000E+00 ths8
+  639  23.0  26.0  22.0  27.0  1.00000E+00 ths8
+  640  22.0  27.0  24.0  28.0  1.00000E+00 ths8
+  641  23.0  27.0  22.0  28.0  1.00000E+00 ths8
+  642  24.0  29.0  22.0  28.0  1.00000E+00 ths8
+  643  23.0  23.0  24.0  25.0  1.00000E+00 ths8
+  644  25.0  25.0  23.0  24.0  1.00000E+00 ths8
+  645  23.0  24.0  24.0  26.0  1.00000E+00 ths8
+  646  24.0  24.0  23.0  25.0  1.00000E+00 ths8
+  647  25.0  26.0  23.0  25.0  1.00000E+00 ths8
+  648  23.0  25.0  24.0  27.0  1.00000E+00 ths8
+  649  24.0  25.0  23.0  26.0  1.00000E+00 ths8
+  650  25.0  27.0  23.0  26.0  1.00000E+00 ths8
+  651  23.0  26.0  24.0  28.0  1.00000E+00 ths8
+  652  23.0  27.0  24.0  26.0  1.00000E+00 ths8
+  653  25.0  28.0  23.0  27.0  1.00000E+00 ths8
+  654  23.0  27.0  24.0  29.0  1.00000E+00 ths8
+  655  24.0  27.0  23.0  28.0  1.00000E+00 ths8
+  656  25.0  29.0  23.0  28.0  1.00000E+00 ths8
+  657  24.0  30.0  23.0  28.0  1.00000E+00 ths8
+  658  24.0  24.0  25.0  26.0  1.00000E+00 ths8
+  659  26.0  26.0  24.0  25.0  1.00000E+00 ths8
+  660  24.0  25.0  25.0  27.0  1.00000E+00 ths8
+  661  25.0  25.0  24.0  26.0  1.00000E+00 ths8
+  662  26.0  27.0  24.0  26.0  1.00000E+00 ths8
+  663  25.0  28.0  24.0  26.0  1.00000E+00 ths8
+  664  25.0  26.0  24.0  27.0  1.00000E+00 ths8
+  665  26.0  28.0  24.0  27.0  1.00000E+00 ths8
+  666  25.0  29.0  24.0  27.0  1.00000E+00 ths8
+  667  25.0  27.0  24.0  28.0  1.00000E+00 ths8
+  668  26.0  29.0  24.0  28.0  1.00000E+00 ths8
+  669  25.0  30.0  24.0  28.0  1.00000E+00 ths8
+  670  25.0  28.0  24.0  29.0  1.00000E+00 ths8
+  671  26.0  30.0  24.0  29.0  1.00000E+00 ths8
+  672  25.0  29.0  24.0  30.0  1.00000E+00 ths8
+  673  26.0  31.0  24.0  30.0  1.00000E+00 ths8
+  674  27.0  26.0  25.0  25.0  1.00000E+00 ths8
+  675  25.0  25.0  26.0  27.0  1.00000E+00 ths8
+  676  27.0  27.0  25.0  26.0  1.00000E+00 ths8
+  677  25.0  26.0  26.0  28.0  1.00000E+00 ths8
+  678  26.0  26.0  25.0  27.0  1.00000E+00 ths8
+  679  27.0  28.0  25.0  27.0  1.00000E+00 ths8
+  680  25.0  27.0  26.0  29.0  1.00000E+00 ths8
+  681  26.0  27.0  25.0  28.0  1.00000E+00 ths8
+  682  27.0  29.0  25.0  28.0  1.00000E+00 ths8
+  683  25.0  28.0  26.0  30.0  1.00000E+00 ths8
+  684  26.0  28.0  25.0  29.0  1.00000E+00 ths8
+  685  27.0  30.0  25.0  29.0  1.00000E+00 ths8
+  686  26.0  31.0  25.0  29.0  1.00000E+00 ths8
+  687  26.0  29.0  25.0  30.0  1.00000E+00 ths8
+  688  27.0  31.0  25.0  30.0  1.00000E+00 ths8
+  689  26.0  32.0  25.0  30.0  1.00000E+00 ths8
+  690  26.0  26.0  27.0  28.0  1.00000E+00 ths8
+  691  27.0  26.0  26.0  27.0  1.00000E+00 ths8
+  692  28.0  28.0  26.0  27.0  1.00000E+00 ths8
+  693  26.0  27.0  27.0  29.0  1.00000E+00 ths8
+  694  27.0  27.0  26.0  28.0  1.00000E+00 ths8
+  695  28.0  29.0  26.0  28.0  1.00000E+00 ths8
+  696  27.0  30.0  26.0  28.0  1.00000E+00 ths8
+  697  27.0  28.0  26.0  29.0  1.00000E+00 ths8
+  698  28.0  30.0  26.0  29.0  1.00000E+00 ths8
+  699  27.0  31.0  26.0  29.0  1.00000E+00 ths8
+  700  27.0  29.0  26.0  30.0  1.00000E+00 ths8
+  701  28.0  31.0  26.0  30.0  1.00000E+00 ths8
+  702  27.0  32.0  26.0  30.0  1.00000E+00 ths8
+  703  27.0  30.0  26.0  31.0  1.00000E+00 ths8
+  704  28.0  32.0  26.0  31.0  1.00000E+00 ths8
+  705  27.0  31.0  26.0  32.0  1.00000E+00 ths8
+  706  28.0  33.0  26.0  32.0  1.00000E+00 ths8
+  707  27.0  26.0  28.0  28.0  1.00000E+00 ths8
+  708  29.0  28.0  27.0  27.0  1.00000E+00 ths8
+  709  27.0  27.0  28.0  29.0  1.00000E+00 ths8
+  710  29.0  29.0  27.0  28.0  1.00000E+00 ths8
+  711  27.0  28.0  28.0  30.0  1.00000E+00 ths8
+  712  28.0  28.0  27.0  29.0  1.00000E+00 ths8
+  713  29.0  30.0  27.0  29.0  1.00000E+00 ths8
+  714  27.0  29.0  28.0  31.0  1.00000E+00 ths8
+  715  28.0  29.0  27.0  30.0  1.00000E+00 ths8
+  716  29.0  31.0  27.0  30.0  1.00000E+00 ths8
+  717  27.0  30.0  28.0  32.0  1.00000E+00 ths8
+  718  28.0  30.0  27.0  31.0  1.00000E+00 ths8
+  719  29.0  32.0  27.0  31.0  1.00000E+00 ths8
+  720  28.0  33.0  27.0  31.0  1.00000E+00 ths8
+  721  28.0  31.0  27.0  32.0  1.00000E+00 ths8
+  722  29.0  33.0  27.0  32.0  1.00000E+00 ths8
+  723  28.0  34.0  27.0  32.0  1.00000E+00 ths8
+  724  30.0  29.0  28.0  28.0  1.00000E+00 ths8
+  725  29.0  30.0  28.0  28.0  1.00000E+00 ths8
+  726  29.0  28.0  28.0  29.0  1.00000E+00 ths8
+  727  30.0  30.0  28.0  29.0  1.00000E+00 ths8
+  728  29.0  31.0  28.0  29.0  1.00000E+00 ths8
+  729  29.0  29.0  28.0  30.0  1.00000E+00 ths8
+  730  30.0  31.0  28.0  30.0  1.00000E+00 ths8
+  731  29.0  32.0  28.0  30.0  1.00000E+00 ths8
+  732  29.0  30.0  28.0  31.0  1.00000E+00 ths8
+  733  30.0  32.0  28.0  31.0  1.00000E+00 ths8
+  734  29.0  33.0  28.0  31.0  1.00000E+00 ths8
+  735  29.0  31.0  28.0  32.0  1.00000E+00 ths8
+  736  30.0  33.0  28.0  32.0  1.00000E+00 ths8
+  737  29.0  34.0  28.0  32.0  1.00000E+00 ths8
+  738  29.0  32.0  28.0  33.0  1.00000E+00 ths8
+  739  30.0  34.0  28.0  33.0  1.00000E+00 ths8
+  740  29.0  33.0  28.0  34.0  1.00000E+00 ths8
+  741  30.0  35.0  28.0  34.0  1.00000E+00 ths8
+  742  29.0  28.0  30.0  30.0  1.00000E+00 ths8
+  743  30.0  31.0  29.0  29.0  1.00000E+00 ths8
+  744  30.0  29.0  29.0  30.0  1.00000E+00 ths8
+  745  30.0  32.0  29.0  30.0  1.00000E+00 ths8
+  746  30.0  30.0  29.0  31.0  1.00000E+00 ths8
+  747  30.0  33.0  29.0  31.0  1.00000E+00 ths8
+  748  30.0  31.0  29.0  32.0  1.00000E+00 ths8
+  749  30.0  34.0  29.0  32.0  1.00000E+00 ths8
+  750  30.0  32.0  29.0  33.0  1.00000E+00 ths8
+  751  30.0  35.0  29.0  33.0  1.00000E+00 ths8
+  752  30.0  33.0  29.0  34.0  1.00000E+00 ths8
+  753  30.0  36.0  29.0  34.0  1.00000E+00 ths8
+  754   1.0   0.0   1.0   1.0  1.00000E+00 cf88
+  755   2.0   1.0   2.0   2.0  1.00000E+00 nacr
+  756   3.0   4.0   2.0   2.0  1.00000E+00 cf88
+  757   4.0   3.0   2.0   2.0  1.00000E+00 cf88
+  758   4.0   5.0   2.0   2.0  1.00000E+00 cf88
+  759   5.0   3.0   2.0   2.0  1.00000E+00  wag
+  760   5.0   6.0   2.0   2.0  1.00000E+00 nacr
+  761   3.0   4.0   2.0   2.0  1.00000E+00 mafo
+  762   4.0   3.0   2.0   2.0  1.00000E+00 mafo
+  763   2.0   2.0   4.0   5.0  1.00000E+00 cf88
