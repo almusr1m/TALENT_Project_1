@@ -1,0 +1,27 @@
+Compiling Instructions for XNet 6.0_public
+------------------------------------------------------------------------------------------
+XNet use the make utility to build the xnet executable.  The Makefile contains the 
+build rules for numerous variants of xnet.  The Makefile, which is the same on all 
+platforms, relies on a number of definitions in Makefile_local for localization.  
+These include the names of the compilers, common sets of compiler options, etc.  
+Sample Makefile_locals are included for gfortran and the Intel FORTRAN compiler, 
+ifort.  This covers most new users of XNet and provides examples for users on other 
+platforms to create their own.
+
+Building instructions
+------------------------------------------------------------------------------------------
+1) Downloading the XNet_public.zip files 
+2) Unzipping the XNet_public.zip which will create a branches directory containing a 
+public sub-directory.  This is the root directory of XNet.
+3) Change directory to branches/public/source.
+4) Create Makefile_local by copying and editing one of the examples of Makefile_local
+5) make
+
+Choice of Compilers
+------------------------------------------------------------------------------------------
+If users have a choice of compilers, there can be considerable differences in 
+performance when XNet is optimized by different compilers.  Code performance becomes 
+more important as the size of the nuclear network grows.  In general, gfortran, 
+which is freely available for virtually all platforms, builds the slowest execution.  
+A more important performance difference comes from the choice of matrix solver, see 
+Matrix_Solver.txt for more discussion. 

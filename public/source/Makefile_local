@@ -1,0 +1,21 @@
+#   Local macro definitions for gfortran
+#
+# Compiler and options
+FC      =  gfortran
+LDR     = gfortran
+#  Compiler modes
+R8      =   -fdefault-real-8 -fdefault-double-8
+OPT     = -O3 -ftree-vectorize 
+TRAP    = -fbacktrace -finit-real=nan
+DEBUG   = -C -g -g -fbounds-check $(TRAP) 
+PROFILE = -p -pg   
+MOD     = -qmoddir=$(OBJDIR) -I$(OBJDIR)
+EXTRA_LINK =  
+BASE    = 
+
+# Libraries
+LAPACK_LIBDIR = 
+LAPACK_LIBS = 
+PARDISO_LIBDIR = 
+PARDISO_LIBS = 
+PARDISO_INC = 

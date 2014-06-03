@@ -1,0 +1,49 @@
+Choosing Matrix Solvers for XNet 6.0_public
+------------------------------------------------------------------------------------------
+The default matrix solver provided with XNet is a subset of the source code for the 
+LAPACK linear algebra package (http://www.netlib.org/lapack/) and the the Basic Linear 
+Algebra Subprograms (BLAS) on which it relies.  Compiled versions of LAPACK and BLAS 
+provide portability to the widest array of platforms, but do not provide the best 
+available performance.
+
+Better performance can be achieved through tuned versions of LAPACK and BLAS provided 
+by hardware and software vendors as part of performance libraries.  Commonly encountered 
+examples include the Intel Math Kernal libraries (MKL), Advanced Micro Devices Core Math 
+Library (ACML), Cray Scientific Libraries (LibSci) and IBM Engineering and Scientific 
+Subroutine Library (ESSL).  These provide significantly improved performance over the 
+compiled version of LAPACK/BLAS while maintaining a common interface.  These accelerated 
+libraries should be used if available.
+
+Sparse verses dense
+------------------------------------------------------------------------------------------
+For large networks, the building and solution of the matrix dominates XNet's 
+computational cost to an increasing degree.  Sparse matrix solvers can significantly 
+increase the speed of computation and significantly decrease the amount of memory usage 
+by the network.  At what network size the reduced computation of the sparse matrix 
+solvers compensates for the increased overhead of the sparse matrix representation 
+will depend on the quality of both the sparse and dense solvers compared, but a general 
+rule is that dense solvers are best for systems up to 100 species and sparse solvers are 
+clearly beneficial for systems of more than 200 species.  XNet contains interfaces to 
+two sparse solver packages, PARDISO and MA48.
+
+PARDISO is available from its developers as a compiled library for a number platforms 
+(http://www.pardiso-project.org).  Academic users can obtain a free license.  
+PARDISO is also included in the Intel Math Kernal libraries.  However, users of the MKL 
+version of PARDISO, should not call pardisoinit.  Make sure that this call is commented 
+out at the  end of the read_jacobian_data routine in jacobian_PARDISO.f.
+                   
+The MA48 package is part of the HSL Mathematical Software Library from Harwell 
+(http://www.hsl.rl.ac.uk).  MA48 is thread-safe and represents a significant improvement 
+in performance and stability over the obsolete MA28 routine that has been widely used 
+in astrophysical circles for many years.  MA48 is proprietary software, but a free 
+academic license can be obtained from http://hsl.rl.ac.uk/archive/academic.html.  
+Be sure to download both the Package and HSL dependencies and put them in a single file 
+called MA48.f.
+
+While both PARDISO and MA48 are faster than the dense LAPACK solver, neither sparse 
+solver is as robust as LAPACK. The sparse solvers are much more sensitive to problems 
+with the libraries, for example rates that blow up at low temperatures.  However, at 
+high temperature, the reduction in round-off error provided by the sparse matrix 
+representation can allow PARDISO and MA48 to successfully solve matrices that are 
+too nearly singular for LAPACK to solve.
+  

@@ -1,0 +1,19 @@
+Troubleshooting Instructions for XNet 6.0_public
+------------------------------------------------------------------------------------------
+The most common errors come from errors in the input of the initial
+abundances or thermodynamic trajectory.  By default the network is
+configured to output to the screen the time, Temp. and density for each
+timestep.  Check that these are correct.  
+
+If you see an error message which begins,
+"Time beyond thermodynamic range" ...
+Then the current time (and the Stop time) is larger than the last time value 
+in the thermo trajectory.  Check to see that the time and stop time values in 
+your thermo input file are being read in correctly.  Also check that the
+parameter nhmx (in the thermo_data module in conditions.f90) is larger than the
+number of lines in your thermo input file.
+
+If the network runs for many steps then dies, reporting a floating point error, 
+then you've probably reached too low a temperature for the network to run.
+The temperature at which problems occur depends strongly on the choice of 
+reactions and the number of isotopes.  

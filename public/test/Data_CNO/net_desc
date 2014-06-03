@@ -1,0 +1,19 @@
+Data_CNO                                                                        
+Number of Nuclear Species=   16
+Reaction Count for the 8 different types
+         1         1         5
+         2         6        41
+         3        42        43
+         4         1        36
+         5        37        89
+         6        90        89
+         7        90        89
+         8         1         2
+Necessary dimensions
+  nreac(1,2,3)=      43      89       2
+    nan(1,2,3)=     122     319       4
+Reaction Count for non-REACLIB rates
+  nffn=       0   nnu=       0
+Matrix Sparseness parameters
+Border Widths      16   16
+Diagonal Widths     0    0(j<i,j>i)
