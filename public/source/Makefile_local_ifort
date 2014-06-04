@@ -1,0 +1,31 @@
+#   Local macro definitions for the Intel FORTRAN compiler
+#
+.SUFFIXES: $(SUFFIXES) .f90
+
+#  Compilers
+FC 	= ifort            # FORTRAN compiler
+FC_MPI	= mpif90
+LDR	= ifort            # program linker
+LDR_MPI= mpif90       
+AR     = xiar
+
+#  Compiler modes
+DEBUG   =  -V -u -g -check all -check noarg_temp_created -fpe0  -traceback # options for debugging 
+PROFILE =  -g -save-temps -assume nounderscore #-static-intel # -g -pg #compiler options for profiling
+OPT     = -no-ip -O3 -xSSSE3 -mdynamic-no-pic  -no-prec-div #-vec-report5 # -static 
+MOD     = -I.
+R8      = -autodouble
+EXTRA_LINK =  
+
+# Libraries
+MKL_PATH= /Library/Frameworks/Intel_MKL.framework/Versions/Current
+HELMHOLTZ_PATH = $(HOME)/Work/Codes/EoS/Helmholtz
+# Active options
+LIBS	=  #$(LAPACK)    # Libraries need at linking
+LDRFLAGS=  $(BASE) $(R8) $(OPT) # linker flags
+FFLAGS 	= $(OPT) $(BASE) $(R8)  # active compiler options
+LAPACK_LIBDIR = -L$(MKL_PATH)
+LAPACK_LIBS = -lmkl_intel_lp64 -lmkl_sequential -lmkl_core -lmkl_sequential -lmkl_core -lguide
+PARDISO_LIBDIR = -L$(MKL_PATH)
+PARDISO_LIBS = -lmkl_solver_lp64 -lmkl_intel_lp64 -lmkl_sequential -lmkl_core -lmkl_sequential -lmkl_core -lmkl_sequential -lmkl_core -lguide
+PARDISO_INC = -I$(MKL_PATH)/include
